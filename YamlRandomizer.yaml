@@ -1,0 +1,28 @@
+textomizer:
+  enabled: True
+  categories: # people, signs, item_pickup, hints
+    - people
+    - signs
+    - item_pickup
+    - hints
+
+trollomizer:
+  enabled: True
+  pedestal:
+    min: 0
+    max: 2
+  agahnim:
+    min: 0
+    max: 2
+  menuslow:
+    min: 0
+    max: 2
+  fastheart:
+    min: 0
+    max: 2
+  cutsceneslow:
+    min: 0
+    max: 2
+  startinventory:
+    min: 2
+    max: 5

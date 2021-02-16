@@ -1,0 +1,5352 @@
+﻿Welcome to our cutting-edge amusement center: The Bombchu Bowling Alley!
+Do you want to know what you can win?
+Well, it's a secret.
+I can't tell you until you've paid to play.
+It's 30 Rupees per game.
+Do you want to play?
+[C1]Yes
+[C2]No
+
+OKAY!!
+Aim for the hole in the center and let Bombchu go!
+You get ten tries.
+Ready…
+LET'S BOWL!
+
+Do you want to play again?
+[C1]Yes
+[C2]No
+
+Oh, I almost forgot!
+Here is what you can win!
+
+I'm so happy everyone is back to normal!
+
+Please save my other brothers too!
+I'm sure they will give you something a lot better!
+Will you do it!?
+
+The curse has been broken!
+Thank you!
+Here's a reward for you!
+
+Yeaaarrgh!
+I'm cursed!!
+
+We'll be careful not to get cursed again!
+
+Since you've destroyed 69 Spiders of the Curse, the curse is starting to weaken!
+Did the kids who returned to normal give you any rewards?
+You should know that the only way to become very rich is to destroy as many Spiders of the Curse as possible!
+There are some tricks to finding them all!
+First of all, you'll have to hunt at night.
+Secondly, keep in mind that they love soft soil…
+Pay close attention to your surroundings!
+Please, we're counting on you!
+
+We look like this because of the spider's curse.
+But…
+
+We all look like this because of the spider's curse.
+If every Spider of the Curse in the entire world were destroyed, the curse would be broken.
+When you destroy a Spider of the Curse, a token will appear.
+Collect it as proof of your achievement.
+The number next to this icon on the Quest Status Subscreen indicates how many Spiders of the Curse you have destroyed so far.
+When this icon is displayed next to the name of the area on the Map Subscreen, there are no more Spiders in that area.
+
+If you break the curse on my family, we will make you very rich…
+
+Since you've destroyed 69 Spiders of the Curse, the curse on me has been broken.
+Thank you!
+Here is a token of my appreciation!
+Please take it.
+
+Thank you for saving my kids.
+What?
+Me?
+Oh, that's OK…
+You have already destroyed 69 Spiders of the Curse so far, so…
+That's fine…
+Don't worry about me…
+
+Bombchu 20 Pieces 180 Rupees
+[C1]Buy
+[C2]Don't buy
+
+Do you want to play a game?
+It's 20 Rupees per play.
+[C1]Yes
+[C2]Nope
+
+You can't!
+You need a bow!
+
+All right.
+You don't have to play if you don't want to.
+
+OKAY!!
+This is a game for grownups!
+Hyrule's famous Shooting Gallery!
+Take aim at the targets from that platform over there!
+Can you hit ten targets?
+You get fifteen shots!
+Are you ready?
+Go for a perfect score!
+Good Luck!
+
+If you see something suspicious, bomb it!
+
+Sorry about that…
+OK, well…
+LET'S BOWL!
+
+Going to a hot place?
+No worry!
+
+Be brave and trust in the boots!
+
+You should keep your word…
+
+Wow!
+
+Welcome!
+May I help you?
+[C1]I want to shop
+[C2]Just looking
+
+Would you like to buy something else?
+[C1]Yes
+[C2]No
+
+Open the chest and…
+Surprise!
+If you find a Key inside, you'll be able to advance.
+Left or right--try your luck!
+10 Rupees to play.
+Do you want to try it?
+[C1]Yes
+[C2]No
+
+Great!
+You are a real gambler!
+
+You got a Green Rupee!
+That's one Rupee!
+
+[C1]Talk to the owner
+[C2]Quit
+
+Thanks a lot!
+
+I'm sorry…
+I can't sell this to you unless you have a bottle to put it in.
+
+My current hot seller is the Hylian Shield, but it might be too big for you, kid.
+
+We moved here from the castle town.
+I know times are tough, but I hope you will be a steady customer for us!
+
+Welcome!
+
+We're temporarily out of stock on that item.
+
+C'mon, man!
+You're too old for this game!
+
+Huh?
+Wha--!
+Uh-oh!
+A customer!
+
+zzzzz…zzzzz…
+
+Nope, you don't have enough Rupees!
+
+All right, you're done!
+Please wait outside while I set up your next challenge!
+
+Welcome @!
+I am the Great Fairy of Power!
+I'm going to grant you a sword technique.
+Receive it now!
+
+Welcome @!
+I am the Great Fairy of Wisdom!
+I'm going to enhance your magic power.
+Receive it now!
+
+Welcome @!
+I am the Great Fairy of Courage!
+I'm going to enhance your defensive power.
+Receive it now!
+
+When you are weary of battle, please come back to visit me!
+
+Welcome @!
+I will soothe your wounds.
+
+You want to talk to Saria, right?
+[C1]Talk to Saria
+[C2]No
+
+Really?
+Then do you want to talk to me?
+[C1]Yes
+[C2]No
+
+@…?
+This is Saria.
+Can you hear me?
+
+Do you want to talk to Saria again?
+[C1]Yes
+[C2]No
+
+Hey, boy!
+You're a messenger of the Royal Family, aren't you?
+Next time you're in their neighborhood, you should drop in on a friend of mine who lives by Hyrule Castle.
+She'll surely grant you another new power!
+
+Welcome @!
+I am the Great Fairy of Magic!
+I will give you a magic spell.
+Please take it.
+
+I'm sorry, but you can't borrow this mask yet.
+
+When battle has made you weary, please come back to see me.
+
+What's that?
+
+Look, look, @!
+
+@, what are you looking at?
+
+I can hear the spirits whispering in this room…
+Look for the eye of truth…
+That's what they are saying!
+
+Here…I can hear the spirits whispering in this room…
+Those who have sacred feet should let the wind guide them.
+Then, they will be led to the hidden path.
+That's what they are saying!
+
+This wall…it says something here…
+Danger above…
+That's what it says.
+
+This wall…it says something here…
+Danger below…
+That's what it says.
+
+The water flowing out of this statue is flooding the entire floor.
+
+WHAAAT!?
+Look at all those flags!
+Can you figure out which ones are real?
+
+The Great Deku Tree has summoned you!
+Please come with me!
+
+C'mon!
+Be brave!
+Let's go into the Great Deku Tree!
+
+The Great Deku Tree wanted us to go to visit the princess at Hyrule Castle…
+Shouldn't we get going?
+
+The girl from the ranch asked us to find her father…
+I wonder where he is?
+
+@…
+Try to keep moving!!
+
+I don't mind talking to you using the Ocarina's magic, but I'd really like to talk to you face-to-face!
+
+The forest is connected to many places!
+If you can hear my song, you must be somewhere that is connected to the forest!
+
+I was so happy to hear that Mr. Darunia loved my song so much!
+I was even happier to find out that it helped you on your quest, @!
+Tee hee hee!
+
+Are you collecting Spiritual Stones?
+You have one more to find?
+You mean the Spiritual Stone of Water, don't you?
+The Great Deku Tree once told me that King Zora, ruler of Zora's Domain, has it…
+
+Are you collecting Spiritual Stones?
+You have one more to find?
+You mean the Spiritual Stone of Fire, don't you?
+The Great Deku Tree once told me that Mr.
+Darunia of the Gorons has it…
+
+@…
+I don't know what it is…
+I have this feeling of dread…
+The Castle…
+Yes, something bad is happening at the Castle!
+
+What?
+Your ocarina sounds…different somehow…
+Have you been practicing a lot, @?
+
+Are you looking for a temple?
+A mysterious bird once told me…
+Eyes that can see through darkness will open in a storm.
+Do you have any idea what he meant by this?
+
+Where are you, @?
+Are you looking for a temple?
+I once heard a mysterious bird say…
+Go, young man.
+Go to the Desert Goddess with an ocarina.
+Do you have any idea what he may have meant by this?
+
+Great!
+You're safe!
+I knew I would hear from you again!
+I'm in the Forest Temple!
+The forest spirits were calling for help, so I went to check it out…
+But it's full of evil monsters!
+Help me, @!
+
+@…
+At first, I didn't want to become the Sage of the Forest…
+But I'm glad now.
+Because I am helping you to save Hyrule, @!
+Yes, I am!
+
+If all six Sages come together, we can imprison Ganondorf, the King of Evil, in the Sacred Realm.
+But, in order to make a perfect seal, we need the seventh Sage.
+Someone you know must be that Sage, @…
+From now on, you must travel between past and future to awaken the remaining Sages!
+Keep up the good work, @!
+
+We, the Six Sages, are channeling our power to you!
+The destiny of Hyrule depends upon you!
+
+I can hear a voice from somewhere…
+It's saying: 'Collect five silver Rupees…'
+This wall…it's saying something!
+It says: If you want to see a ferry to the other world, come here…
+
+If you want to ride that boat, be careful!
+It looks very old…
+Who knows when it might sink?
+
+@, watch out!
+The ceiling is falling down!
+
+@, I hear Goron voices down below.
+
+@!
+Be careful!
+Don't get swallowed by the vortexes!
+
+I'm a talking door!
+
+Strange…this door doesn't open…
+
+Be quiet!
+It's only 3:14!
+I, Dampe the gravekeeper, am in bed now!
+Go away and play!
+Maybe you can find a ghost in the daytime?
+
+It's 4:20 now.
+The Gravedigging Tour is over now!
+I, Dampe the gravekeeper, am in bed!
+Go away and play!
+Maybe you'll find a ghost!
+
+Happy Mask Shop Please read this sign before you use this shop.
+How This Shop Works We do not sell masks at this shop.
+We just lend them to you.
+You sell the loaned masks on your own.
+You pay back the money for the mask, and we will lend you a newer model.
+You can borrow masks you have already sold again; however, you can sell each model of mask only once.
+Please try our shop!
+--Happy Mask Shop Owner
+
+If you wish to speak to me, do so from the platform.
+
+Hi, @!
+Look this way!
+
+The current time is: 13:37.
+
+Those who break into the Royal Tomb will be obstructed by the lurkers in the dark.
+
+Hey, you!
+Young man, over there!
+Look over here, inside the cell!
+
+My little kid isn't here right now…
+I think he went to play in the graveyard…
+
+Oh, my kid is asleep right now.
+Please come back some other time to play with him!
+
+When water fills the lake, shoot for the morning light.
+
+If you want to travel to the future, you should return here with the power of silver from the past.
+
+If you want to proceed to the past, you should return here with the pure heart of a child.
+
+This door is currently being refurbished.
+
+It looks like something used to be set in this stand…
+
+Make my beak face the skull of truth.
+The alternative is descent into the deep darkness.
+
+Who's there?
+What a bad kid, trying to enter from the rear door!
+Such a bad kid…
+I have to tell you some juicy gossip!
+The boss carpenter has a son…
+He's the guy who sits under the tree every night…
+Don't tell the boss I told you that!
+
+Look at this!
+
+Malon's gone to sleep!
+I'm goin' to sleep now, too.
+Come back again when it's light out!
+
+R.I.P.
+Here lie the souls of those who swore fealty to the Royal Family of Hyrule The Sheikah, guardians of the Royal Family and founders of Kakariko, watch over these spirits in their eternal slumber.
+
+Sleepless Waterfall The flow of this waterfall serves the King of Hyrule.
+When the King slumbers, so too do these falls.
+
+Some frogs are looking at you from underwater…
+
+You're standing on a soft carpet for guests…
+It feels so plush under your feet!
+
+…???
+
+If you can stop my wild rolling, you might get something great.
+
+Tours are cancelled until a new gravekeeper is found.
+We apologize for any inconvenience.
+
+What's that?
+
+You finally woke up!
+I'm Navi the fairy!
+The Great Deku Tree asked me to be your partner from now on!
+Nice to meet you!
+
+Yahoo!
+Hi, @!
+
+Wow!
+A fairy!!
+Finally, a fairy came to you, @!
+
+I'll wait for you here.
+Get going!
+Go see the Great Deku Tree!
+
+Mean old Mido…
+he made me pick up the rocks in front of his house.
+
+Oh, you have a fairy now?!
+That's great, @!
+What?
+You've been called by the Great Deku Tree?
+What an honor!
+He may give you a special gift!
+Tee hee!
+That's because the Great Deku Tree is our father, the forest guardian, and he gave life to all of us Kokiri!
+
+I wonder if the Great Deku Tree gave life to everything in the forest, I mean in addition to us Kokiri?
+
+Hey, let's work on some moves!
+
+You're not allowed to leave the forest!
+
+The Great Deku Tree said that if a Kokiri leaves the woods, he or she will die!
+
+That meanie, Mido, made me cut the grass at Saria's house.
+Mido told Saria he would do it so she would like him, but I'm the one doing all the work!
+
+You and Saria are close friends, so will you help me cut the grass?
+I'll let you keep anything that you find while cutting it.
+
+Yes, yes!
+That's how you use a fairy!
+It's so great that you finally have a fairy partner!
+I'll teach you how to talk to people using your fairy!
+
+Oh, a fairy finally came to you!
+Now you have a lot to learn!
+
+Wow!
+That's great news!
+I'm so happy for you!
+Now you're a true Kokiri, @!
+
+Is that right?
+The Great Deku Tree has summoned you?
+It's quite an honor to talk to the Great Deku Tree!
+
+Oh, you're leaving…
+
+But that's OK, because we'll be friends forever…
+won't we?
+
+I want you to have this Ocarina…
+Please take good care of it.
+
+When you play my Ocarina, I hope you will think of me and come back to the forest to visit.
+
+Oh…
+Navi…
+Thou hast returned…
+@…
+Welcome…
+Listen carefully to what I, the Deku Tree, am about to tell thee…
+Thy slumber these past moons must have been restless, and full of nightmares…
+As the servants of evil gain strength, a vile climate pervades the land and causes nightmares to those sensitive to it…
+Verily, thou hast felt it…
+@…
+The time has come to test thy courage…
+
+I have been cursed…
+I need you to break the curse with your wisdom and courage.
+Dost thou have courage enough to undertake this task?
+[C1]Yes
+[C2]No
+
+Then enter, brave @, and thou too, Navi…
+Navi the fairy…
+Thou must aid @…
+
+Hee hee!
+Under that mask…aren't you that Kokiri kid?
+
+Quite an unusual mask you have there.
+Hee hee!
+I like it!
+It may make me look a little bit tougher.
+Hey, why don't you give it to me?
+OK No way
+Doh!
+That's too bad for me…
+
+Yowza!
+I'm gonna wear this all the time!
+
+My buddies really want this mask!
+Hee hee hee!
+
+Oh, you're OK?
+You didn't leave the forest after all, did you?
+
+Saria said she's waiting at the usual spot.
+
+Well done, @…
+
+No, @…
+Thou must know my time is short…
+
+Now…listen carefully…
+A wicked man of the desert cast this dreadful curse upon me…
+
+If you're looking for Saria, she's in the Lost Woods, as usual.
+Don't tell me you don't know where that is!
+The entrance is up on the cliff overlooking the village!
+I know you'll get lost!
+Don't worry, you'll just end up back at the entrance!
+Harumph!
+
+Thou must never allow the desert man in black armor to lay his hands on the sacred Triforce…
+Thou must never suffer that man, with his evil heart, to enter the Sacred Realm of legend…
+That evil man who cast the death curse upon me and sapped my power…
+Because of that curse, my end is nigh…
+Though your valiant efforts to break the curse were successful, I was doomed before you started…
+Yes, I will pass away soon…
+But do not grieve for me…
+I have been able to tell you of these important matters…
+This is Hyrule's final hope…
+
+The future depends upon thee, @…
+Thou art courageous…
+Navi the fairy…
+Help @ to carry out my will…
+I entreat ye…
+Navi…
+Good…bye…
+
+Let's go to Hyrule Castle, @!!
+
+Good-bye…
+Great Deku Tree…
+
+Too bad…Heh heh!
+
+Do you want to play some more?
+[C1]Yes
+[C2]No
+
+Hey you!
+Mr. No Fairy!
+What's your business with the Great Deku Tree?
+Without a fairy, you're not even a real man!
+
+What?!
+Mido won't let you go to see the Great Deku Tree?
+
+If you want to see the Great Deku Tree, you should at least equip a sword and shield!
+
+I, the great Mido, will never accept you as one of us!
+Shoot!
+How did you get to be the favorite of Saria and the Great Deku Tree?
+Huh?!
+Grumble…grumble…
+
+Well, if you play around with it, you'll figure it out.
+
+That's not quite Saria's Song…
+
+Mido is very upset!
+Did something happen to him?
+
+What?
+Where are you going?!
+To the castle?
+Where is the castle?
+
+We Kokiri will die if we leave the forest!
+You're not going to try to leave the forest, are you?!
+
+Hey, @!
+What did you do?!
+The Great Deku Tree… did he… die?
+How could you do a thing like that?!
+It's all your fault!!
+
+Hey!!
+What are you doing in my house?!
+
+@, you're safe!
+
+Saria and @ will be friends forever.
+
+Did something happen to the Great Deku Tree?
+
+Somehow, it seems that the air in the forest has changed.
+
+@, are you going to go away?
+
+If you lose your shield, will you come back?
+
+All of the young Deku Scrub brothers agree…you look exactly like our sacred forest totem!
+As an offering from us, please accept these Deku Sticks.
+We will also enhance your carrying skills!
+Abracadabra!
+Alakazaaaam!
+
+Since the Great Deku Tree withered…more meanies have been appearing in the forest…
+I'm scared!
+
+An evil wind is blowing from the direction of the Forest Temple.
+Saria left, saying, 'I have to do something about it!'
+The Forest Temple is located in the Sacred Forest Meadow in the far side of the Lost Woods.
+
+Saria went to the temple and hasn't come back…
+
+Hi, mister!
+You can't use a Deku Shield!
+It's only for kids!
+
+Where's Saria?
+Do you know Saria, mister?
+That's weird…
+
+Where has Mido gone during such an emergency?
+
+I see.
+You didn't have any problems entering the forest, mister…
+Did the meanies out there bother you much?
+Before the Great Deku Tree died, you wouldn't see things like that around here…
+
+Since it's dangerous outside, I always stay inside my house.
+But I'm bored to death in here!
+
+You can buy arrows at a shop only if you have a bow.
+Have you got one, mister?
+
+Have you been travelling around much, mister?
+Have you ever met a kid named @?
+Mido said that the Great Deku Tree withered because that kid did something wrong to it…
+Only Saria defended @--until she left.
+
+Maybe we misunderstood…
+
+Haven't I seen you somewhere before, mister?
+
+Mister, do you know a kid named @?
+He left the forest and never came back…
+
+I wonder if @ will ever return?
+
+It would be awesome to be big like you, mister!
+I really want to be big like you!
+I want to be big and strong and beat up the Deku Scrubs, but…
+
+We Kokiri won't ever get bigger for the rest of our lives…
+What a bummer!
+
+Why is that fairy following you around?
+You're not one of us!
+
+What are you?
+Though you wear Kokirish clothing, you can't fool me!
+
+I promised Saria I would never let anybody go through here.
+
+Hi there!
+I'm the Deku Tree sprout!
+Because you and Saria broke the curse on the Forest Temple, I can grow and flourish!
+Thanks a lot!
+
+Hey, have you seen your old friends?
+None of them recognized you with your grown-up body, did they?
+That's because the Kokiri never grow up!
+Even after seven years, they're still kids!
+
+You must be wondering why only you have grown up!
+Well, as you might have already guessed, you are not a Kokiri!
+You are actually a Hylian!
+I am happy to finally reveal this secret to you!
+
+Some time ago, before the King of Hyrule unified this country, there was a fierce war in our world.
+One day, to escape from the fires of the war, a Hylian mother and her baby kid entered this forbidden forest.
+The mother was gravely injured…
+Her only choice was to entrust the child to the Deku Tree, the guardian spirit of the forest.
+The Deku Tree could sense that this was a child of destiny, whose fate would affect the entire world, so he took him into the forest.
+After the mother passed away, the baby was raised as a Kokiri.
+And now, finally, the day of destiny has come!
+
+You are a Hylian, and were always bound to leave this forest.
+And now…
+You have learned your own destiny…
+So you know what you must do…
+That's right…
+You must save the land of Hyrule!
+Now, @, break the curses on all of the Temples, and return peace to Hyrule!!
+
+That melody?!
+Saria plays that song all the time!
+You…Do you know Saria?
+That song…
+Saria taught that song only to her friends…
+
+When I see you…
+I don't know why, but I remember…
+him…
+
+I have you now!
+In this gap between dreams and reality, soon all that will remain of you will be your dead body!
+
+Thank you…
+Because of you, I could awaken as a Sage…
+I am Saria.
+The Sage of the Forest Temple…
+
+Saria will always be…
+your friend…
+
+The flow of time is always cruel…
+Its speed seems different for each person, but no one can change it…
+A thing that doesn't change with time is a memory of younger days…
+In order to come back here again, play the Minuet of Forest.
+
+@…
+I'll see you again…
+
+Saria hasn't come back yet…
+But I know she'll return someday…
+
+OK…
+I trust you.
+
+Oh…I see…
+Saria won't ever come back…
+But…I…I made a promise to Saria…
+If @ came back, I would be sure to tell him that Saria had been waiting for him…
+Because Saria…really…
+liked…
+
+Hey, you.
+If you see him somewhere, please let him know…
+
+I still think you really look like somebody I've seen before, mister.
+
+You're such a big, strong guy!
+I really want to be like you someday even though I'll always be small.
+
+@…
+I wonder if he will come back…
+
+I feel like I've known you for a long time, mister!
+
+Now that the Deku Tree's sprout is growing in the Great Deku Tree's meadow, the forest has returned to normal!
+
+We'll all work together to protect the forest!
+
+Somehow, a fair wind has begun to blow recently.
+
+Since a fair wind started to blow, I'm sure @ will come back!
+
+I wonder if Saria will come back…
+
+I'm sure @ will return someday!
+
+Great Deku Tree…
+I'm back!
+
+This evil man ceaselessly uses his vile, sorcerous powers in his search for the Sacred Realm that is connected to Hyrule…
+For it is in that Sacred Realm that one will find the divine relic, the Triforce, which contains the essence of the gods…
+
+Before time began, before spirits and life existed…
+
+Three golden goddesses descended upon the chaos that was Hyrule…
+
+Din, the goddess of power…
+
+Nayru, the goddess of wisdom…
+
+Farore, the goddess of courage…
+
+Din…
+
+With her strong flaming arms, she cultivated the land and created the red earth.
+
+Nayru…
+
+Poured her wisdom onto the earth and gave the spirit of law to the world.
+
+Farore…
+
+With her rich soul, produced all life forms who would uphold the law.
+
+The three great goddesses, their labors completed, departed for the heavens.
+
+And golden sacred triangles remained at the point where the goddesses left the world.
+
+Since then, the sacred triangles have become the basis of our world's providence.
+
+And, the resting place of the triangles has become the Sacred Realm.
+
+Hey kid, you did quite well…
+It looks like you may be gaining some slight skill…
+But you have defeated only my phantom…
+When you fight the real me, it won't be so easy!
+What a worthless creation that ghost was!
+I will banish it to the gap between dimensions!!
+
+I always believed that you would come.
+Because I know you…
+No…
+You don't have to explain it to me…
+Because it is destiny that you and I can't live in the same world.
+
+I will stay here as the Forest Sage and help you…
+Now, please take this Medallion…
+
+Thou hast verily demonstrated thy courage…
+I knew that thou wouldst be able to carry out my wishes…
+
+Now, I have yet more to tell ye, wouldst thou listen…
+[C1]Yes
+[C2]No
+
+@…
+Go now to Hyrule Castle…
+There, thou will surely meet the Princess of Destiny…
+Take this stone with you.
+The stone that man wanted so much, that he cast the curse on me…
+
+I knew…
+that you would leave the forest… someday, @…
+Because you are different from me and my friends…
+
+Hello, @!
+Wake up!
+The Great Deku Tree wants to talk to you!
+@, get up!
+
+Hey!
+C'mon!
+Can Hyrule's destiny really depend on such a lazy boy?
+
+Jumping is going out of style now.
+I'm crazy about doing backflips!
+Can you do one?
+
+The Great Deku Tree has summoned you!
+So let's get going, right now!
+
+Navi…
+Navi, where art thou?
+Come hither…
+
+Oh, Navi the fairy…
+Listen to my words, the words of the Deku Tree…
+Dost thou sense it?
+The climate of evil descending upon this realm…
+Malevolent forces even now are mustering to attack our land of Hyrule…
+For so long, the Kokiri Forest, the source of life, has stood as a barrier, deterring outsiders and maintaining the order of the world…
+But…before this tremendous evil power, even my power is as nothing…
+It seems the time has come for the kid without a fairy to begin his journey…
+The youth whose destiny it is to lead Hyrule to the path of justice and truth…
+Navi…go now!
+Find our young friend and guide him to me…
+I do not have much time left.
+Fly, Navi, fly!
+The fate of the forest, nay, the world, depends upon thee!
+
+Please forgive me, master!
+I'll never do it again!
+If you spare me, I'll teach you something cool.
+You will never beat my brothers up ahead unless you punish them in the proper order.
+The order is…
+2 3 1 Twenty-three is number one!
+Do you think I'm a traitor?
+
+How did you know our secret?!
+How irritating!
+It's so annoying that I'm going to reveal the secret of Queen Gohma to you!
+In order to administer the coup de grace to Queen Gohma, strike with your sword while she's stunned.
+Oh, Queenie…
+Sorry about that!
+
+In the vast, deep forest of Hyrule…
+Long have I served as the guardian spirit…
+I am known as the Deku Tree…
+
+The children of the forest, the Kokiri, live here with me.
+Each Kokiri has his or her own guardian fairy.
+
+However, there is one kid who does not have a fairy…
+
+Let's make a deal!
+[C1]OK
+[C2]No way
+
+YIKES!!
+I'm going home then!
+
+Not enough Rupees!
+Come back again!
+
+You can't have this now!
+Come back again!
+
+Thank you very much!
+
+I've been waiting for you, @!
+This is the Sacred Forest Meadow.
+It's my secret place!
+I feel…
+This place will be very important for both of us someday.
+That's what I feel.
+If you play the Ocarina here, you can talk with the spirits in the forest.
+
+Would you like to play the Ocarina with me?
+[C1]Yes
+[C2]Don't do it
+
+OK, try to follow along with the melody I will play.
+Are you ready?
+
+Huh?!
+How boring!
+C'mon!
+Play along!
+
+Great!
+Great!
+Please don't forget this song!
+Do you promise?
+
+When you want to hear my voice, play Saria's Song.
+You can talk with me anytime…
+
+Are you taking good care of my Ocarina?
+
+Cool!
+You're great!
+You scored three perfect bull's-eyes!
+I have to give a neat present to such a wonderful person!
+Please take it!
+
+Mido might know something about Saria's whereabouts.
+I think Mido is sulking in one of the houses around here.
+
+??
+No response.
+He's sleeping.
+
+Cojiro?
+Why?
+Normally only a nice guy like me can tame you…
+Which means…
+You…
+You must be a nice guy!
+Must be!
+You must be!!
+Please Mr. Nice Guy!
+Please!
+Deliver this stuff to the old hag in the potion shop in Kakariko Village!
+
+This will disappear if you take too long, so you gotta hurry!
+Oh, yeah.
+That's it!
+You aren't a nice guy after all!!
+Get away from me!
+
+Saria wanted to see you…
+Did she find you already?
+
+Hurry up, nice guy!
+Before it disappears, deliver it to that old wench…
+
+That guy isn't here anymore.
+Anybody who comes into the forest will be lost.
+Everybody will become a Stalfos.
+Everybody, Stalfos.
+So, he's not here anymore.
+Only his saw is left.
+Hee hee.
+
+That medicine is made of forest mushrooms.
+Give it back!
+[C1]Yes
+[C2]No
+Heh heh heh.
+Are you going to be…
+too?
+Heh heh!
+
+We sell shields, but not swords!
+
+You know Saria's Song!
+We should be friends!
+Here, take this!
+
+Hi!
+Do you think my face is kind of plain?
+It's just not very unusual…
+
+Let's play again sometime!
+
+Follow along with our song on your Ocarina.
+We'll lead you into it.
+
+That was quite a nice session.
+As a token of our friendship, please take this.
+
+Hey, over here!
+Hoo hoo!
+@…Good to see you again!
+Listen to this!
+Hoot hoot…
+
+After going through the Lost Woods, you will come upon the Sacred Forest Meadow.
+That is a sacred place where few people have ever walked.
+Shhhh…What's that?
+I can hear a mysterious tune…
+You should listen for that tune too…
+Hoo hoo ho!
+
+Do you want to hear what I said again?
+[C1]Yes
+[C2]No
+
+Ohh…That bum!
+I don't know why he's always so mean to everyone!
+What he said is true, though.
+
+The forest…strange things have been happening here lately…
+You need to be ready for anything.
+You'd better find a weapon!
+
+What?!
+You've got a fairy?!
+Say what?
+The Great Deku Tree actually summoned you?
+
+Whaaaaaaat?!
+Why would he summon you and not the great Mido?
+This isn't funny…
+I don't believe it!
+You aren't even fully equipped yet!
+How do you think you're going to help the Great Deku Tree without both a sword and shield ready?
+What?
+You're right, I don't have my equipment ready, but…
+
+Eh, what's that?!
+Oh, you have a Deku Shield…
+And what's THAT?!
+Is that the Kokiri Sword?!
+GOOD GRIEF!!
+
+Well, even with all that stuff, a wimp is still a wimp, huh?
+
+And also…
+I'm sorry for being mean to him.
+Tell him that, too.
+
+Hee hee hee!
+You came all the way up here?
+You're a real man!
+
+Look!
+Isn't this view pretty?
+
+What did you do to the Great Deku Tree?
+
+If you want to go to the Lost Woods, you'd better equip the right gear!
+Hee hee!
+
+All my young Deku Scrub brothers say…
+You have a horrible face!
+But don't worry!
+We will reward you with many Deku Nuts.
+Of course, we will also enable you to carry more of them!
+Abracadabra…
+Alakazaaaam!!
+
+That guy isn't here anymore.
+Anybody who comes into the forest will be lost.
+Everybody will become a Stalfos.
+Everybody, Stalfos.
+So, he's not here anymore.
+
+Thank you very much for the other day…
+I haven't even asked you your name yet…
+…
+Really?
+@!
+That's what I thought!
+You're the fairy kid from the forest!
+That was years ago!
+Do you remember me?
+You do?
+I was sure it was you because Epona remembered you!
+Oh, I have to tell you about Mr. Ingo…
+He was afraid that the Evil King might find out that Epona had been taken away…It really upset him!
+But one day, all of a sudden, he went back to being a normal, nice person!
+Now my dad is coming back…I can't believe it, but peace is returning to this ranch!
+It's all because of you!
+I owe you so much!
+Thank you!
+Thank you, @!
+
+How is Epona doing?
+If you play Epona's Song with your Ocarina, she will surely come to you.
+Please come back to the ranch whenever you want to train Epona!
+
+Epona looks great!
+It looks like you were able to tame her, too!
+
+How about trying your skill with Epona on an obstacle course?
+I'll time you for two laps.
+It's pretty challenging.
+If you miss jumping a fence in the proper order, you'll fail.
+How about it?
+Do you want to try?
+[C1]Let's go
+[C2]Don't do it
+
+Well, your time was pathetic.
+You have to train harder!
+Remember, you don't need to accelerate to jump over low fences, but you do need to go fast to jump the high fences!
+
+@…can you hear me?
+It's me, Zelda…
+
+Moooooooooo!
+What a nice song…
+It reminds me of the pasture…
+That song makes me feel so good, I can produce a lot of milk!
+
+Have some of my refreshing and nutritious milk!
+
+@, when you hold this Ocarina in your hand…
+I won't be around anymore…
+I wanted to wait for you, but I couldn't delay any longer…
+At least I could leave you the Ocarina and this melody…
+
+Now, @.
+Play this melody in front of the altar in the Temple of Time.
+You must protect the Triforce!
+
+Wha-ha-ha-hah!
+Do you think you're in disguise, Mx. @?
+Oh?
+Is that a 'Kee…something…' character mask?
+I heard he's very popular recently?
+He's my boy's favorite.
+That 'Kee…something…' mask…
+If you don't mind…
+
+Will you sell it to me?
+[C1]Yes
+[C2]No way
+
+I won't give up!
+I have plenty of patience.
+I have to for this job!
+Hah hah hah!
+
+Mmmm…mumble…mumble…
+Huh?
+Yeah, I'm awake!
+What?
+Hey, it's you!
+Welcome!
+Awww…
+That was rough!
+Malon yelled at me for a long time!
+You took care of us, so I'm proud to give you this milk!
+You can keep the bottle for yourself.
+
+The road is closed beyond this point!
+Can't you read the sign over there?
+Eh?
+Oh, I see.
+You're just a kid, and you can't read yet.
+Ha ha hah!
+
+I don't want that!
+
+Oh, this is…
+This is surely Princess Zelda's handwriting!
+Well, let's see…
+Hmmm…
+OK…
+'This is @… He is under my orders to save Hyrule.'
+Wah ha ha ha hah!
+What kind of funny game has our Princess come up with now?!
+OK, OK, all right.
+You can go now…
+Just be careful, Mx. @!
+Wah hah ha ha hah!
+
+Oh, Mx. @!
+Thanks for all your hard work!
+Wah ha ha hah !!
+
+Wow!
+Great!
+Your time was epic!
+You and Epona are a great team!
+
+Oh, that's too bad.
+If you had something to put it in, I could give some to you…
+
+I am Ingo--Mr. Ingo to you.
+I take care of these horses.
+You're in my way, so scram, kid!
+
+By the way, Mx. @…
+If you're going to climb Death Mountain, you should equip a proper shield!
+It is an active volcano, after all!
+If you go back to Hyrule Castle Town Market, you should check out the Bazaar.
+They sell the shield you need there.
+Tell 'em I sent you and they should give you a special discount!
+If you think you're good to go already, don't worry about it.
+Now, I'd like to ask a favor of you.
+No, I don't expect you to do it just because of the great tip I just gave you!
+I'm just asking!
+Have you been to the Happy Mask Shop that just opened in the Hyrule Castle Town Market?
+Everyone is talking about it!
+My little kid pesters me for a popular mask, but I don't have time to go there…
+So, could you go and get the mask for me next time you are in the Market?
+If you don't feel like it, that's OK, but…
+Well, I have no choice, this is my job…
+…sigh…
+
+I wish I could go to the mask shop in town to buy a present for my kid…
+…sigh…
+
+Oh no…
+He's not breathing…
+
+@!?
+
+Arrrrgh!
+I lost her!
+
+You, over there!
+Little kid!
+
+ Heh heh heh…
+You want a piece of me?!
+Very funny!
+I like your attitude!
+
+Pathetic little fool!
+Do you realize who you are dealing with?!
+
+I am Ganondorf!
+And soon, I will rule the world!
+
+You must have seen the white horse gallop past just now…
+Which way did it go?!
+Answer me!!
+
+Tsk tsk…When your time is up, I'll kick you out of here.
+
+My kid will be very happy with this!
+You really are Mx. @!
+Wha ha ha hah!
+
+Little kids can't go on the 'Heart-Pounding Gravedigging Tour' described on the sign.
+Since I can't do that, I'm just imitating Dampe the gravekeeper all day.
+But with my cute face, I'm not heart-pounding at all, am I?
+
+Gyaah!
+It's Dampe the gravekeeper!
+???
+Oh, it's just a mask.
+I get a different kind of fright from that mask than I get from Dampe…
+Will you give that mask to me?
+[C1]Yes
+[C2]No way
+
+I really do have some money, you know.
+
+Hey!
+Time's up, young man!
+You only paid 10 Rupees!
+You've played around long enough!
+
+With this mask, I'll be just like Dampe!
+Here's my money!
+
+You sold the 30-Rupee mask to a kid for full price?!
+And he didn't mind paying at all!
+Let's go back to the mask shop to pay 30 Rupees for the mask.
+You can get the new mask model, too.
+
+I'm gonna dig and dig!
+Just like Dampe!!
+
+In old times, I heard there were many wild rabbits in the land of Hyrule.
+Not anymore, though, because of excessive hunting.
+I want to become a rabbit…
+Listen to the wind with those ears, hop across the ground with those legs…
+Even if I can only pretend.
+
+I bet with those long ears you can hear the voices…
+Oh, these are genuine rabbit ears from the animal of legend!
+
+I don't care how expensive it is!
+Please sell it to me!
+[C1]Yes
+[C2]No way
+
+That's not the answer I wanted to hear!
+
+My long time dream!
+Returning to the wild life!
+Finally, the actor, stage and prop have been united!
+
+It's a 50-Rupee mask, but he paid you a crazy amount of money for it--more money than you can count!
+Go back to the Mask Shop and pay back just 50 Rupees of this money.
+
+So, you think you can protect them from me…
+You've got guts, kid.
+
+There are some people in Kakariko spreading rumors that I cheated Talon out of the ranch, but…
+Don't be ridiculous!
+That guy Talon was weak!
+I, the hard-working Ingo, poured so much energy into this place!
+I don't want any strangers like you saying anything bad about me!
+Listen.
+The great Ganondorf recognized my obvious talents and gave the ranch to me!
+I will raise a fine horse and win recognition from the great Ganondorf!
+Say, young man, do you want to ride one of my fine horses?
+
+Pay me 10 Rupees and you can ride.
+[C1]Ride
+[C2]Don't ride
+
+All right then, scram ya little punk!
+
+You don't have enough!
+Save your change and come back again!
+
+Do you want to hear how to ride?
+[C1]Listen
+[C2]Don't listen
+
+Are you ready to go home so soon?
+[C1]No, I want to ride.
+[C2]Yes, I'm done.
+
+Hey young man!
+Do I know you?
+I just felt as though I've seen you somewhere before…
+
+You're getting better!
+How about a little race with me?
+One lap around the corral with that horse.
+Let's make a little wager, say 50 Rupees?
+[C1]Do it
+[C2]Don't do it
+
+Hey hey…
+What's the matter?
+Don't you have even 50 Rupees?!
+I don't want to race with someone so poor!
+
+Sh-shoooot!
+If the great Ganondorf found out about this humiliation…
+Hey, you!!
+How about another race!
+If you win…
+You can keep…the horse!!
+
+What's up with that horse?!
+Is that Epona?
+How did you tame that wild horse right under my nose?!
+I was going to present that horse to the great Ganondorf…
+But I bet it on the race and lost!
+Shooot!
+
+Hah ha hah!
+As I promised, I'll give the horse to you…
+However…
+I'll never let you leave this ranch!
+
+Hee hee hee…
+Too bad for you!
+I get your 50 Rupees.
+
+Wah ha hah!
+You're just a kid, after all!
+Well, come back any time and we'll have some more fun…
+
+What?
+What are you doing hanging around here?
+You little weirdo!
+I am Ingo and I mind the ranch.
+I've been working at this ranch for a long time for that lazy bum, Talon.
+Today, for example, he's gone somewhere for a delivery and he hasn't come back yet!
+So, I'm doing all the work around here.
+
+Oh well…It's tough to be a working man.
+
+Hey, your clothes!
+They're… different…
+You're not from around here, are you?
+…
+…
+Ohh…
+You're a fairy kid from the forest!
+My name is Malon!
+My dad owns Lon Lon Ranch!
+
+Dad went to the castle to deliver some milk, and he hasn't come back yet…
+
+Are you going to the castle, fairy boy?
+Would you mind finding my dad?
+He must have fallen asleep somewhere around the castle.
+What a thing for an adult to do!
+Tee hee!
+Oh yeah, if you'll look for him, I'll give this to you.
+I've been incubating this egg very carefully…
+Tee hee!
+
+Hee hee!
+My dad is really troublesome, for an adult, isn't he?!
+Hee hee!
+
+I can't believe that I, the great Ingo, am working on this dump of a ranch!
+Because the owner is so lazy, I always have to do all the work around here!
+
+I, the hard-working Ingo, should be in charge, not that lazy bum, Talon!
+
+Oh, it's the fairy kid again!
+I heard that you found my dad!
+How did you like the castle?
+Did you see the Princess?
+Hee hee!
+Dad came home in a hurry after you found him.
+Hee hee!
+Oh yeah, I have to introduce you to my friend, fairy boy!
+She's this horse.
+Her name is Epona.
+Isn't she cute?
+
+It seems like Epona is afraid of you, fairy boy…
+
+My mother composed this song.
+Isn't it nice?
+Let's sing together.
+
+Oh, Epona!
+She's grown fond of you, fairy boy.
+
+Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z …
+
+Oh…a visitor!
+It's been a long time since we've had a visitor here…
+Where did you come from?
+Since Ganondorf came, people in the Castle Town have gone, places have been ruined, and monsters are wandering everywhere.
+Mr. Ingo is just using the ranch to gain Ganondorf's favor…
+Everyone seems to be turning evil…
+But Dad…
+He was kicked out of the ranch by Mr. Ingo…
+If I disobey Mr. Ingo, he will treat the horses so badly…
+So… There's nothing I can do…
+
+I bet nobody is faster than I am now!
+But, I don't know if I should be happy or sad…
+
+Z Z Z Z Z Z Z Z Z Z Z Z Z …
+S-stop that song…I…I…
+Mumble… mumble…
+
+Take a good look at that mountain.
+That is Death Mountain, home of the Gorons.
+They hold the Spiritual Stone of Fire.
+
+Please keep it secret from Mr. Ingo that I sing this song…
+
+You…
+Do you know my mother's song?
+Everyone really liked that song…
+My dad…
+Even Mr. Ingo…
+But…since Ganondorf appeared, Mr. Ingo has changed completely.
+I can remember the good old days only while I sing the song.
+Also…
+
+Epona really liked that song…
+Only I could tame that horse…
+Even Mr. Ingo had a hard time…
+Hee hee hee!
+
+This statue's one-eyed gaze pierces into your mind…
+
+Responding to your mask, this strange stone statue talks to you…
+I overheard this…
+
+I'm gonna turn over a new leaf and work real hard from now on.
+
+Mr. Ingo…
+He must have been tempted by evil powers.
+He's not really a bad person at all…
+
+Z Z Z Z Z Z Z Z…
+Mumble… It's not easy to be a working man…
+
+It's been a while…
+Do you want to race?
+[C1]Yes
+[C2]No
+
+If you change your mind, come back anytime!
+
+All right then!
+Scram, ya little punk!
+
+Heh heh…
+Are you mad because you lost?
+If you're that upset, how about another race?
+Bet 50 Rupees and race again?
+[C1]Race
+[C2]Don't race
+
+Thank you so much.
+Heh heh!
+
+If I give ya more free of charge, Ingo will get mad at me.
+So I'd better sell it to you for the normal price.
+
+Wanna buy milk for 30 Rupees?
+[C1]Buy
+[C2]Don't buy
+
+Hi there, how are you?
+I am Ingo.
+I feel so honored to be allowed to work here.
+
+You brave lad…
+We must protect this beautiful land of Hyrule!
+
+Oh, cute ocarina!
+Are you going to play this song with that ocarina?
+
+At the foot of Death Mountain you will find my village, Kakariko.
+That is where I was born and raised.
+You should talk to some of the villagers there before you go up Death Mountain.
+
+The song I just taught you has some mysterious power.
+Only Royal Family members are allowed to learn this song.
+Remember, it will help to prove your connection with the Royal Family.
+The Princess is waiting for you to return to the castle with the stones.
+All right.
+We're counting on you!
+
+Hoo hoot!
+@…
+Look up here!
+It appears that the time has finally come for you to start your adventure!
+You will encounter many hardships ahead…
+That is your fate.
+Don't feel discouraged, even during the toughest times!
+
+Go straight this way and you will see Hyrule Castle.
+You will meet a princess there…
+
+Hey, @!
+This way!
+The princess is inside the castle just ahead.
+Be careful not to get caught by the guards!
+Ho ho ho hoot!
+
+No matter how hard it is, just don't get discouraged.
+Ho Ho Hoo!
+
+OK, be careful and go!
+
+What is your name?
+
+… @…
+Strange… it sounds somehow… familiar.
+
+OK then, @…
+I'm going to tell you the secret of the Sacred Realm that has been passed down by the Royal Family of Hyrule.
+
+The Ocarina of Time!
+
+Did you understand well the story I just told you?
+[C1]Yes
+[C2]No
+
+I was spying through this window just now…
+The other element from my dream…the dark clouds…
+I believe they symbolize…
+that man in there!
+Will you look through the window at him?
+[C1]Yes
+[C2]No
+
+… Yes.
+I told my father about my dream…
+However, he didn't believe it was a prophecy…
+But… I can sense that man's evil intentions!
+
+What Ganondorf is after must be nothing less than the Triforce of the Sacred Realm.
+He must have come to Hyrule to obtain it!
+And, he wants to conquer Hyrule…
+No, the entire world!
+
+@… now, we are the only ones who can protect Hyrule!
+
+We must not let Ganondorf get the Triforce!
+I will protect the Ocarina of Time with all my power!
+He shall not have it!
+You go find the other two Spiritual Stones!
+Let's get the Triforce before Ganondorf does, and then defeat him!
+
+One more thing…
+Take this letter…
+I'm sure it will be helpful to you.
+
+Mumble… mumble…
+Huh?
+I'm awake already!
+What?
+Well I'll be!
+If it ain't the forest kid from the other day!
+By the way, thanks a lot for waking me up!
+It took some doing, but I finally got Malon back in a good mood.
+So, what are you up to today?
+Got some free time on your hands you say?
+Well how about a little game?
+These three Cuccos I have here are special Super Cuccos!
+I'm going to throw these Cuccos into that there gaggle of normal Cuccos.
+If you can pick out these three special birds from among the normal Cuccos within the time limit, I'll give you something good.
+If you can't find them, I win.
+It'll be 10 Rupees…
+Want to play?
+[C1]Yes
+[C2]No
+
+Mumble… mumble…
+I'm up!
+I'm up!
+What?
+Hey, forest kid!
+Got some free time?
+Then c'mon and play!
+I'm going to throw these three Super Cuccos into that gaggle of normal Cuccos.
+If you can pick out these three special birds from among the normal Cuccos within the time limit, I'll give you something good.
+If you can't find them, I win.
+It'll be 10 Rupees…
+Want to play?
+[C1]Yes
+[C2]No
+
+You have 30 seconds!
+All righty then, get ready.
+Here go the Super Cuccos!
+START LOOKIN'!!
+
+Time's up!
+Too baaaaad!!
+These are some great Cuccos aren't they!
+They're raking in money for me!
+Come back to me, my babies!
+
+That's one of 'em!
+Keep it up!
+Keep it up!
+Two more to find!
+
+There's another!
+All right, now, the moment of truth!
+One more to find!
+
+Golly!
+I'll be darned!
+It's plum incredible!
+That's the last one!
+You've found them all!
+Come on over here!
+
+Want to try again?
+A young man like you must have a real fire in your belly!
+Find three of them within 30 seconds.
+Try again for 5 Rupees?
+[C1]Yes
+[C2]No
+
+Hey, you!
+You've got the talent to be one of the world's best cowboys!
+How'd you like to marry Malon?
+Huh?
+[C1]Yes
+[C2]No
+
+Haw haw!
+I was just kidding!
+Just kidding!
+I think you're a little young for that, aren't you?
+Haw haw haw!
+Oh…!
+I'm proud to present to you a sample of our very own Lon Lon Milk.
+You'll be energized the moment you drink it!
+After you drink it, you can bring back the bottle and buy a refill, anytime you want!
+
+Hey pardner, you have an honest face!
+When you grow up, why don't you come to work here, on this ranch?
+That's a standing offer!
+I'll be waiting for you.
+
+Here you go!
+Take this super fresh Lon Lon Milk!
+
+Here you are!
+Take some super fresh milk…
+Oh?
+Too baaaaad!!
+You don't have an empty bottle, do you?
+
+Mumble… mumble…
+I'm awake!
+What?
+Hey, @!
+If you're lookin' for Malon, she's right outside.
+Did you come here to play?
+Well then, how about playing the Super Cucco-findin' game with me?
+Or, do you want to buy some Lon Lon Milk?
+What'll it be?
+
+Are you making sure to approach the fences head on?
+If you approach at an angle, the horse won't jump!
+If you want to try again, mount Epona and get ready!
+
+You did it!
+28 is the new course record!
+I have to give you a present to commemorate your new record!
+The present is a little too heavy to give to you here, so I'll have it delivered to your house.
+Bet you can't wait to see it!
+Hee hee!
+
+The record so far is 50 seconds.
+Your best time is garbage.
+If you can beat the record, I'll give you a present.
+Give it your best shot, OK?
+Let's get going!
+
+Your best time is awful!
+How fast can you go?!
+C'mon, let's get started!
+
+I maaaade thissss…
+Trrrrade for claimmm checkkk…
+
+I giiiive thissss to yoooou forrr a souvenirrrrr.
+
+Kid, I like you!
+How's about you and I become Sworn Brothers?!
+No, there's no big ceremony involved!
+Just take this as a token of our friendship!
+
+You did great!
+
+How 'bout a big Goron hug, brother?!
+
+Oh!
+Oh-oh!
+C'mon!
+Come on!
+Come on!
+Come on!
+HOT!!
+What a hot beat!
+WHOOOOAH!
+YEEEEAH!
+YAHOOO!!
+
+I am one of the Gorons, the stone-eating people who live on Death Mountain.
+Look at that huge boulder over there!
+It blocks the entrance to the Dodongo's Cavern, which was once a very important place for us Gorons…
+But one day, many Dodongos suddenly appeared inside the cavern.
+It became a very dangerous place!
+On top of that, a Gerudo in black armor used his magic to seal the entrance with that boulder!
+
+I wish I could roll down the mountain like a rock, with a Bomb Flower and…
+BOOOOOOM!
+If I could do that with a Bomb Flower, I could become a real man.
+
+I'm standing here to shade the Bomb Flowers from the sun.
+Do you have a question for me?
+Ask about Bomb Flowers Ask about Dodongo's Cavern
+Those plants growing over there are Bomb Flowers.
+They are 'mining plants' that grow only on this mountain.
+The flower's fruit is the raw material for bombs.
+But a non-Goron amateur should never pick the Bomb Flowers' fruit!
+They usually grow only in dark places, so Bomb Flowers that grow in a place like this are extremely rare.
+
+Those plants growing over there are Bomb Flowers.
+They are 'mining plants' that grow only on this mountain.
+They usually grow only in dark places, like caves, so Bomb Flowers that grow in a place like this are extremely rare.
+If you have the Goron's Bracelet, even a little kid like you could easily pick it with (A).
+
+Did you see the cavern on your way here?
+That is the Dodongo's Cavern.
+Because the light inside is very dim, the Bomb Flowers, a plant unique to this mountain, grow like crazy in there!
+
+Oh?
+We don't get many visitors way up here.
+Where are you from?
+The forest?
+What's a 'forest'?
+Eh?
+It's where a lot of 'trees' and 'plants' grow?
+Now I'm even more confused!
+Nothing grows around here besides the Bomb Flowers…
+We don't have 'seeds' or 'nuts' around here either.
+Even Deku Sticks are very scarce around here!
+
+I sealed the entrance because I don't have much merchandise to sell.
+But you're quite a persistent customer, aren't you.
+
+I'm sorry…
+That Bomb is just for display.
+I'm sold out of real ones.
+
+Why did you stop me?
+Don't stop me here!
+You can't stop my wild rolling!
+This wild rolling is the only way to relieve my stress!
+Now stand in awe of my wild, wild rolling!!
+
+All right!
+I'll give you this in praise of your courage!
+
+Thank you!
+Let me express my joy with more wild rolling!
+
+Oh…I'm so hungry…
+Everyone feels faint from hunger because of the food shortage in this town.
+We are in danger of extinction!
+It's all because we can't enter our quarry, the Dodongo's Cavern.
+We Gorons live on a diet of rocks…
+And the most delicious and nutritious rocks around are found in the Dodongo's Cavern!
+But that seems like ancient history now…
+We've become such gourmets that we can't stand to eat rocks from anywhere else!
+
+Sigh…
+I want to eat the top sirloin rocks from the Dodongo's Cavern!
+
+Hey!
+It's dangerous for a little kid like you to come out here.
+You might fall down!
+If I'm not mistaken, you came out here to eat the red stone!
+Well, too bad!
+It's not here!
+What?
+That's not why you're here?
+You're looking for a 'Spiritual Stone?' You must mean that delicious-looking red stone that was once displayed here!
+I was so hungry that I thought it would be OK to just give it one tiny little lick…so I snuck out here.
+But, it was already gone!
+I think Big Brother took it away.
+He always says that everyone is after that red stone!
+
+Big Brother has shut himself up in his room saying, 'I will wait in here for the Royal Family's messenger!'
+I'm so hungry that I can't think about anything but food!
+Ask Big Brother about complicated things.
+If he's in a bad mood, he'll probably get mad at you…it can be pretty scary.
+But… I know his SECRET.
+He may not look like the type, but Big Brother loves to dance!
+If he gets in a rhythm, he'll surely…
+
+I remember Big Brother used to always listen to the music that comes from the forest…
+Ah yes, the good old days…
+That music makes me feel nostalgic, too…
+
+What the heck!
+Who are you?!
+When I heard the song of the Royal Family, I expected their messenger had arrived, but…
+you're just a little kid!
+Has Darunia, the big boss of the Gorons, really lost so much status to be treated like this by his Sworn Brother, the King?
+Now, I'm REALLY angry!
+Get out of my face, now!
+Are you asking why I'm in such a bad mood right now?
+Ancient creatures have infested the Dodongo's Cavern!
+We've had a poor harvest of our special crop, Bomb Flowers!
+Starvation and hunger because of the rock shortage!
+But…
+
+This is a Goron problem!
+We don't need any help from strangers!
+
+Heeey!!
+What a nice tune!
+Just like that, my depression is all gone!
+Something just came over me!
+I suddenly wanted to dance like crazy!
+I am Darunia!
+I'm the big boss of the Gorons!
+Was there something you wanted to ask me about?
+What?
+You want the Spiritual Stone of Fire, too?
+The Spiritual Stone of Fire, also known as the Goron's Ruby, is our race's hidden treasure…
+But hold on--I'm not going to give it to you that easily.
+If you want it so badly…
+Why don't you go destroy the monsters inside of the Dodongo's Cavern and prove you're a real man?
+That way, everybody will be happy again!
+If you do it, I will give you anything you want, even the Spiritual Stone!
+I have something for you.
+I'm not really giving you this in return for anything, but take it anyway.
+If you wear this, even a little fella like you can pick a Bomb Flower using (A).
+
+Destroy the monsters in the Dodongo's Cavern and become a real man!
+Then, we can talk about the Spiritual Stone!
+
+Hey, Brother, play that tune again sometime soon!
+
+No matter how many times I hear that song, it doesn't get old!
+
+Well, that's not quite what I was looking for…
+I wanted to hear… a tune…
+something… um… from outside the mountains… something…
+green… natural…
+That's the kind of music I want to hear…
+
+Oh, now we can enter the cavern.
+You're so smart!
+
+I know a trick to conserve sticks!
+If you light a stick on fire, it will burn to ashes.
+Press (A) to put it away before it completely burns!
+By the way, I hid a stick somewhere…
+Hehehee…
+
+It's me, Darunia!
+Well done!
+Thanks to you, we can once again eat the delicious rocks from the Dodongo's Cavern until our stomachs burst!
+
+I'm so hungry that I can't think about anything but food!
+'Spiritual Stone?' That red stone that was lighting up our city?
+Big Brother Darunia took it away.
+Then, he shut himself up in his room and won't come out.
+Since then, it feels like all the lights in the city have gone out…
+Everyone seems so… depressed…
+
+I want you to bring fire from Big Brother's room back here.
+
+Oh, I see…
+We should have thrown the Bomb from the cliff…
+
+You are incredible, destroying the Dodongos!
+Do you mind if I call you Big Brother?
+
+Thanks to you, we're all OK!
+Why don't you buy some Bombs now?
+
+You know, I'm so grateful to you.
+When I have a kid, I will name it after you!
+
+Are you going to clear out the Dodongos?
+It's a Goron problem, though.
+You're a nosey little kid, aren't you?!
+Well, of course we'll be happy if you fix it so we can get all the Bombs we want, like we used to…
+Just let me warn you, though…
+Dodongos are scary creatures!
+They'll eat ANYTHING!!
+So watch yourself, and don't get eaten!
+
+I already told you!
+We're out of Bombs!
+Ohhh… I'm so hungry!
+
+How was Big Brother?
+I see…
+By the way, do you know the music coming from deep inside of this tunnel?
+We all like this music!
+
+I won't let you get me!
+You probably work for Ganondorf!
+
+How could you do this to me?
+You, you're Ganondorf's servant!
+Hear my name and tremble!
+I am @!
+Hero of the Gorons!
+
+What?
+Your name is also @?
+Then you must be the legendary Dodongo Buster and Hero, @!
+My dad is Darunia…
+Do you remember him?
+Dad named me @ after you, because you're so brave!
+It's a cool name!
+I really like it!
+@, you're a hero to us Gorons!
+I'm so glad to meet you!
+Please give me your autograph!
+Sign it: 'To my friend, @ of the Gorons' Oh…
+I guess it's not a good time to ask you for this…
+Please help everyone!
+My dad, Darunia, went to the Fire Temple.
+A dragon is inside!
+If we don't hurry up, even my dad will be eaten by the dragon!!
+
+B-b-b-boooo hooooo!
+
+You'd better try to calm him down if you can…
+Maybe he will calm down if you talk to him?
+What do you want to ask him?
+About the dragon About the Gorons
+A long time ago there was an evil dragon named Volvagia living in this mountain.
+That dragon was very scary!
+He ate Gorons!
+Using a huge hammer, the hero of the Gorons…
+BOOOM!
+Destroyed it just like that.
+This is a myth from long ago, but it's true!
+I know, because my dad is a descendant of the hero!
+
+Everybody was taken to the Fire Temple…
+While my dad was out…
+Ganondorf's followers came and took them all away!
+All of them will be eaten by Volvagia!
+Dad said that Ganondorf has revived Volvagia…
+As a warning to those who might oppose him, Ganondorf is going to feed them all to Volvagia!
+Dad went to the Fire Temple all by himself to try to save everyone…
+Please help, @!
+I'll give you this heat-resistant tunic!
+
+Dad told me not to let anybody follow him to the temple, but…
+Only you, @, can save everyone!
+I'm sure that the shop owner, who is hiding somewhere right now, will also help you!
+Now, I'll tell you about the secret passage to the Fire Temple!
+
+Try to move the statue inside Dad's room!
+
+Who's there?
+Is that you, @…?
+Oh, it really is @!
+You've grown so big since I last saw you!
+I want to have a man-to-man talk with you, but now's not the time.
+Ganondorf is causing trouble on Death Mountain again!
+He has revived the evil, ancient dragon Volvagia!
+On top of that, he is going to feed my people to that evil dragon as a warning to other races that might resist him…
+If that fire-breathing dragon escapes from the mountain, all of Hyrule will become a burning wasteland!
+I will go on ahead to try to seal up the evil dragon…
+I'm concerned, though, because I don't have the legendary hammer…
+But I have no choice.
+@… I'm asking you to do this as my Sworn Brother…
+While I'm trying to deal with the dragon, please save my people!
+The prisoners' cells are in the opposite direction.
+I'm counting on you, @!
+
+I'm saved!
+Thank you!
+Here, take this!
+
+@… Can't hold…
+anymore… I can't hold it any longer…
+Get out of here!!
+
+Thank you, Brother!
+I really appreciate what you did.
+I thank you on behalf of the entire Goron race!
+You turned out to be a real man, just as I thought you would!
+
+Don't forget…
+Now you and I are true Brothers!
+
+It is something that grows over time…
+a true friendship.
+A feeling in the heart that becomes even stronger over time…
+The passion of friendship will soon blossom into a righteous power and through it, you will know which way to go…
+This song is dedicated to the power of the heart…
+Listen to the Bolero of Fire…
+
+@… See you again…
+
+@, it's so hot in here!
+We can't stay here for long!
+
+Brother @!
+Everybody has come back!
+Dad and you destroyed the dragon together, didn't you!
+
+When I grow up, I want to be a strong man like you, @!
+
+Thank you, @!!
+
+Thank you very much for saving us!
+
+By the way, I, the wild Darunia, turned out to be the great Sage of Fire…
+Isn't that funny, Brother?
+Well, this must be what they call destiny.
+Nothing has made me happier than helping you seal the evil here!
+
+Hey, Brother, take this!
+This is a Medallion that contains the power of the fire spirits--and my friendship.
+
+Big problem!
+Everybody is gone!
+But I'll keep my business open!
+
+What a wild adventure!
+It will make an incredible story…
+I can't believe that the Dodongos suddenly appeared in such great numbers!
+And that big rock blocking the cave…
+All this trouble must have been caused by that Gerudo thief, Ganondorf!
+He said, 'Give me the Spiritual Stone!
+Only then will I open the cave for you!' You, on the other hand, risked your life for us…
+
+Tight fit…
+
+I'm working on something really cool right now!
+But I think it's going to take a while…
+
+If you can wait five or six years, it should be ready.
+OK?
+
+I just completed a small weapon.
+How about it…
+
+How do you like the feel of it?
+
+It looks like there is a problem with its durability…
+But still…
+
+How about buying this knife for 200 Rupees?
+Buy Don't buy
+All right.
+Come back again.
+
+Please…Don't…Eat me…
+If you eat something like me, you'll get a stomach ache!
+You'll be sorry!!
+
+Oh, I see.
+Big Brother Darunia asked you to rescue me.
+I owe you big time!
+Please help Big Brother!
+
+My Brotherrrr…
+Opened a new storrrre…
+It's Medigoron's Blade Storrrrrrrre…
+Howeverrrrr…
+I am betterrrrrr at making bladessssss.
+Hylian carpenterrrrrs praise me forrrrrr my skillssssss.
+I'm not lyinnnnng…
+
+That broken knife is surely my worrrrrrrrrrk…
+I really want to repairrrrr it, but…
+But because of yesterrrrrday's errrrruption, my eyes are irrrrrrrritated…
+There are fine eyedrops in Zora's Domain…
+You will find them if you go to see Kinnnnnng Zorrrrrra…
+
+Please go get the eyedrrrrrrops…
+[C1]Yes
+[C2]No
+Awww nooooo…
+I'm finished…
+My eyes arrrrrre so itchy…
+Owwwwww…
+
+Oh, no!
+Everybody's gone!
+Only I was left behind!
+
+I've been waiting forrrrr you, with tearrrrrrs in my eyes…
+Please say hello to Kinnng Zorrra!
+
+Rrrrreally?
+You brrrrought the eye drops?
+I'm so rrrrrelieved!
+I'm going to use them rrrrrright now!
+
+Wowwwwwwwwwwwwww!!
+This is stimulating!
+It's worrrrrking grrrrreat!
+Now I can get back to my blade business!
+My worrrrrk is not verrrry consistent, so I'll give this to you so you won't forrrrrget.
+
+Everybody has come back!
+It's business as usual!
+
+Afterrrr a few days…
+Please returrrrrrn…
+Wait, just wait patiently…
+
+Not yet…
+Hey you…
+You arrrre impatient…
+
+That sworrrrd is my finest worrrrk!
+
+They say that a beautiful fairy lives on top of Death Mountain!
+Don't you want to see her?
+
+Look!
+A chicken hatched from the egg you were incubating!
+It's the miracle of life!
+
+Did you get the red stone?
+Let me get one little lick!
+No?
+Booooo!
+
+Are you releasing me?
+Am I free to go?
+
+These eyeballs are so delicious!
+Tonight I will cook fried eyeballs for the first time in a long time!
+Uhoy hoy hoo houy hoy!
+Such great stuff!
+Please say thank you to King Zora!
+Eh?
+What?
+
+Oh, that's not good.
+Everybody who comes around here should see Lord Jabu-Jabu at least once!
+Zora's Fountain is just beyond King Zora's throne.
+That is where Lord Jabu-Jabu swims.
+But… unless you have King Zora's permission, you can't go to Zora's Fountain.
+
+We haven't found Princess Ruto even though some of us have searched as far as Lake Hylia…
+
+If you find any clues to Princess Ruto's whereabouts, will you show them to King Zora?
+
+All of the water in Hyrule flows from Zora's Fountain.
+That water flows through Zora's River, which eventually reaches Lake Hylia to the south.
+
+Oh--I've come back to life!
+Was it you who saved me?
+Don't be nervous!
+It looks like you have a hard time breathing underwater.
+As an expression of my gratitude, I grant you this tunic.
+With this, you won't choke underwater.
+
+Princess Ruto has gone to the temple of Lake Hylia and has not come back…
+I'm so worried…again!
+
+Ooh…
+This is…
+well…
+hmmm…
+Hmmm…
+Eye drops…
+You might say we have them, you might say we don't…
+We do have the ingredients.
+If you take the ingredients to the doctor at the lake laboratory, he can make the drops for you.
+But you need to deliver them fresh…
+
+Can you make it before they spoil?
+[C1]Yes
+[C2]No
+
+Then you think they'll spoil before you can get there?
+It's not that far if you make the connection on horseback…
+
+Hoot hoot!
+@, you look like you're getting more comfortable in your role as adventurer.
+I think Princess Zelda is waiting for you to visit her again.
+You already have the Goron's Ruby, don't you?
+
+Hello there, son.
+I'm researching the process of making medicine by mixing Lake Hylia's water with various unusual compounds.
+Perhaps you've met that old lady from the potion shop…she is like a student of mine…
+Ho ho ho!
+
+Oh, wow!
+I haven't seen an Eyeball Frog like this since Zora's Domain froze over!
+
+Oh, my dear, sweet Princess Ruto…
+Where has she gone?
+I'm so worried…
+
+Ho, this letter!
+It's from Princess Ruto!!
+Hmmm…Let's see…
+She's inside Lord Jabu-Jabu?
+That's not possible!
+Our guardian god, Lord Jabu-Jabu, would never eat my dear Princess Ruto!
+But since that stranger, Ganondorf, came here, Lord Jabu-Jabu has been a little green around the gills…
+The evidence seems clear.
+Of course, you'll go find Ruto.
+You can pass through here to the altar of Lord Jabu-Jabu.
+I'll keep this letter.
+You keep the bottle it was in.
+Take it respectfully!
+
+Please find my dear Princess Ruto immediately…
+Zora!
+
+You can't breathe underwater!
+If you start choking, take off those boots!
+
+Ooooh Noooooo!
+
+Ohhh, I'm revived…
+Was it you who saved me?
+Don't be so nervous!
+I will give you a Zora Tunic as a token of my thanks.
+If you have this, you can…
+What?!
+You already have one?
+You're ready for anything, aren't you!
+With my heartfelt thanks…how about a KISS?!
+What?
+You don't want it?!
+Oh well…
+If you don't want my rewards, you can listen to my troubles…
+
+I am a Zora.
+Have you seen a pretty Zora girl around here?
+
+I am a Zora.
+Have you seen anything strange in the lake?
+The river carries many things into this lake!
+
+You…You're late!
+What took you so long?
+You're useless!
+I was just lonely, that's all…
+Just a little!!
+
+I was scared…
+A little!
+Just a little!!
+
+@!
+@!
+
+You!
+You looked cool…cooler than I thought you would, anyway…
+Just a little!
+Well, anyway, you saved me, so I guess I'll reward you.
+What do you wish?
+Just tell me…
+I want that Spiritual Stone.
+Nothing really…
+
+You mean the Spiritual Stone of Water, Zora's Sapphire, don't you?
+
+My mother gave it to me and said I should give it only to the man who will be my husband.
+You might call it the Zora's Engagement Ring!
+All right!
+I'll give you my most precious possession: Zora's Sapphire!
+
+Don't tell my father…
+
+Heeheehee…
+Don't be shy.
+I can tell what you're thinking…
+
+I want to buy a fish, but they are a little too expensive…
+I have no choice but to catch one of the fishes that's swimming around out there.
+
+Oh, @!
+So, you saved the Princess, eh?
+I really appreciate it!
+
+Did my most precious possession help you in your quest?
+Heehee!
+
+Oh, hi @!
+You're all Princess Ruto will talk about lately!
+
+Oh, it's you, @!
+Thanks to you, Lord Jabu-Jabu is back to normal!
+
+We Zoras all respect the great King Zora!
+He has the dignity of a king.
+Oh yeah, he does.
+The grand King Zora has a Princess named Ruto.
+She's an only child.
+She's also a wild tomboy, and it seems like she's always causing the King a lot of trouble!
+
+Here it is.
+This medicine doesn't have any preservatives in it.
+So it won't last long at this temperature.
+Run as fast as you can to Death Mountain.
+You're young-- you can do it!
+
+When you come back next time, don't forget to bring me a souvenir!
+
+You found Princess Ruto!
+Now King Zora will give you the Spiritual Stone of Water…
+Well, maybe.
+Huh?
+
+We meet again, @…
+
+This ice is created by an evil curse…
+The monster in the Water Temple is the source of the curse.
+Unless you shut off the source, this ice will never melt…
+If you have courage enough to confront the danger and save the Zoras, I will teach you the melody that leads to the temple.
+
+Time passes, people move…
+Like a river's flow, it never ends…
+A childish mind will turn to noble ambition…
+Young love will become deep affection…
+The clear water's surface reflects growth…
+Now listen to the Serenade of Water to reflect upon yourself…
+
+If you came here to meet the Zoras, you wasted your time…
+This is all there is…
+With one exception, the Zoras are now sealed under this thick ice sheet…
+I managed to rescue the Zora princess from under the ice, but…
+she left to head for the Water Temple…
+
+If you want to buy fish, you need a container to put them in.
+
+Oh…you…
+If I'm right…
+@?!
+You're @, aren't you?
+It's me, your fiancee, Ruto!
+Princess of the Zoras!
+I never forgot the vows we made to each other seven years ago!
+You're a terrible man to have kept me waiting for these seven long years…
+But now is not the time to talk about love…
+I'm sure you've already seen it!
+Zora's Domain--totally frozen!
+A young man named Sheik saved me from under the ice…
+But my father and the other Zoras have not …yet…
+I want to save them all!
+I want to save Zora's Domain!
+You!
+You have to help me!
+This is a request from me, the woman who is going to be your wife!
+@, you have to help me destroy the evil monster in the Temple, OK?!
+Inside the Water Temple, there are three places where you can change the water level.
+I'll lead the way.
+Follow me, quickly!!
+
+@!
+Look out!
+That isn't normal water over there!
+
+@… I would have expected no less from the man I chose to be my husband.
+Zora's Domain and its people will eventually return to their original state.
+
+If you see Sheik, please give him my thanks, OK?
+
+Did Ruto want to thank me?
+I see… We have to return peace to Hyrule for her sake, too.
+Don't we?
+
+Ah, I see… Princess Ruto went to the Water Temple…
+
+As a reward…
+I grant my eternal love to you.
+Well, that's what I want to say, but I don't think I can offer that now.
+
+Princess Zelda…
+She's alive.
+I can sense it… so don't be discouraged.
+
+Keeeyaaaah!
+What is this?!
+An octopus?!
+
+I have to guard the Water Temple as the Sage of Water…
+And you…
+You're searching for the princess, Zelda?
+Hah!
+You can't hide anything from me!
+
+I can tell that nothing will stop you in your quest for justice and peace…
+You must take this Medallion…
+Take it respectfully!
+
+You!
+Who are you?!
+I am Ruto, Princess of the Zoras.
+What?!
+Are you saying my father asked you to come here to save me?
+I'd never ask anyone to do such a thing!
+'Letter in a Bottle?' I have no idea what you're talking about!
+My father is worried about me?
+I don't care!
+Anyway, I can't go home right now.
+And you…
+Get out of here!
+Understand?!
+
+Are you still hanging around here?
+I told you to go away!
+I'm OK.
+I've been going inside Lord Jabu-Jabu's belly since I was little, but…
+Lord Jabu-Jabu is very strange today…
+There are electrified jellyfish and strange holes around…
+On top of that, my precious stone was…but…
+That's none of your business!
+Anyway…
+You!
+Go home now!
+Understand?!
+
+You're that worried about me?
+Then I will give you the honor of carrying me!
+However… I won't leave until I find the thing I'm looking for.
+You'd better believe me!
+
+How inconsiderate!
+How could you leave me behind?!
+If you're a man, act like one!
+Take responsibility!
+
+That's it!
+That's what I've been looking for!
+Throw me up there!
+Onto the platform!
+
+Princess Ruto got the Spiritual Stone!
+But why Princess Ruto?
+
+Oh my goodness!
+I finally found…
+My mother's stone…
+I got very upset when Lord Jabu- Jabu swallowed it…
+While I was feeding him, he suddenly swallowed me!
+I was so surprised I dropped it inside…
+But, now that I've found it, I don't need to be in here anymore!
+
+So, take me home, right now!
+
+Want to play?
+[C1]Yes
+[C2]No
+
+OKAY!
+Pick up all the Rupees I throw from here.
+You have only a limited amount of time!
+When you pick them all up, come back here!
+I'll give you something very nice!
+
+Hey!
+Congratulations!
+I've got something very nice for you!
+Come and get it!
+
+What a graceful dive!
+Now, please take this!
+This is a 'scale' of our kind.
+With this, you can dive much deeper under the water.
+
+As the water rises, the evil is vanishing from the lake…
+@, you did it!
+
+I… believe that you are going to save this world…
+
+Look at that, @…
+Together, you and Princess Ruto destroyed the evil monster!
+Once again, the lake is filled with pure water.
+All is as it was here.
+
+START!
+
+Go over the falls for a shortcut.
+
+Want to play?
+[C1]Yes
+[C2]No
+
+Hey!
+Congratulations!!
+
+Chomp chomp chomp…
+How about some Magic Beans?
+They aren't selling very well…
+How about… 10 Rupees for one piece?
+[C1]Yes
+[C2]No
+
+Oh well… Chomp chomp…
+
+You don't have enough money.
+I can't sell them to you.
+Chomp chomp…
+
+Your diving is the best in the world.
+Why don't you dive to the bottom of Lake Hylia?
+
+My name is Pierre, the wandering scarecrow.
+Actually, I wish I could wander to look for soul-moving sounds, but I'm kind of stuck here.
+
+Fantastic tune!
+It touches my heart!
+
+If you come up with a nice song, come back and let me hear it!
+
+That song you played for me still stays in my heart.
+Let's hear it again!
+
+That song you played for me stays in my heart!
+
+Well, do you want to go fishing for 20 Rupees?
+[C1]Yes
+[C2]No
+
+Hey, what happened?
+You lost it!
+
+Well, well…it's about 69 pounds.
+Do you want to keep it?
+[C1]Yes
+[C2]No
+
+What do you want?
+[C1]Weigh my fish.
+[C2]I want to quit.
+
+Passion alone won't catch you many fish.
+I'm serious!
+
+WHOA!
+This fish is huge!
+It looks like a new record!
+It weighs at least 420 pounds!
+Seriously!
+OK, here is your prize!
+
+What?
+What are you doing to me?!
+
+Hey, young man!
+Don't you have anything important you should be doing?
+What?
+Are you saying it's more fun to play here?
+I've seen many people ruin their lives with that kind of attitude.
+I'm serious!
+Oh well…
+
+Hey, c'mon!
+You don't have a fish!
+Shucks!
+
+What?
+You want to know why I'm scratching all the time?
+What are you talking about?
+Actually, I have no idea.
+I'm serious!
+
+What?
+Are you trying to tell me you can't see the fish because the water is cloudy?
+What are you talking about?
+This time of day makes for fishing at its finest!
+You can hook a fish out of the blue, when you least expect it.
+Now that's exciting!
+I'm serious.
+Really, I am!
+
+Hey, what are you doing?
+I told you not to do that!
+You're terrible!
+Seriously!
+Give me back my hat!
+OK No way
+What?
+Huh?
+Oh?
+
+I think the fish you already kept was bigger than this one…
+Do you still want to keep it?
+No, I don't want it Yes, I want to keep it anyway
+Gosh!
+That's a strange fish you caught there!
+On top of that, it weighs 69 pounds!
+What do you want to do with it?
+Keep it anyway I don't want it
+Wow!
+
+Is this what I think it is?
+Astonishing!
+You snagged a sinking lure!
+What do you want to do with it?
+Use it now.
+Get rid of it.
+
+Well, well…
+WOW!
+What a rare fish!
+This is a Hyrule Loach!
+For this fish, size doesn't matter.
+I'll give you this prize!
+
+Recently, the number of these fish has decreased tremendously, so I'm going to release this one.
+
+Hey!
+Hey!
+You can't take the rod out of here!
+When you quit fishing, return the rod to the counter.
+I'm serious!
+
+Oh my gosh!
+This fish is gigantic!!
+A fish this big can't even fit on the screen, and I can't weigh it accurately, but it looks like it's about 0 pounds!!
+You'll want to keep this one, right?
+[C1]Keep it
+[C2]Don't keep it
+
+Hey, baby!
+I'm Bonooru, the scarecrow!
+You've probably heard about my fantastic memory!
+If you have a new tune to play, blow it!
+This is the song you tooted last time, baby!
+Hit it!
+
+I am Bonooru, the scarecrow musical genius!
+I hear a song once, and I never forget it, baby!
+
+Play the usual tune to call Pierre!
+If he's nearby, he'll come out to help you, baby!
+
+Hey!
+Aren't you the fairy buddy I met a long time ago?
+Wow, you grew, dude!
+Well, here's your song… What?
+No, I never forget!
+You, you're the one who forgot… aren't you?
+If you have an Ocarina, play that song, baby!
+
+Whoa!
+You have an ocarina!
+Hey, why don't you lay a tune on me with it, baby?!
+
+Well… not bad!
+I will remember it for you anyway!
+I don't mean I can remember only eight notes, but let's just cut it right there for now, baby!
+
+Play it like that and you'll never move this scarecrow's heart, baby!
+
+OH YEAHHH!!
+That's it, that's the tune!!
+You rock!!
+I'm blown away!
+Oh, no, no!
+I didn't forget the song…I never forget anything!
+But I just feel like rewarding you, baby!
+…
+I have a good idea!
+My buddy Pierre is wandering around, so play that tune when you want to call him!
+I'll tell him to help you if he's nearby and hears that song, baby!
+
+Hey, it's the Ocarina!
+Play that song with it, baby!
+
+Young lad, you play the Ocarina well…
+Mmmmm…!
+That melody is so fine…ribbit!
+We all should practice it, ribbit!
+Take Rupees as a souvenir!
+If you come up with another nice melody, please drop by and play it…Ribbit ribbit!
+
+Wow, that melody is so cool!
+Ribbit!
+Siiiiingin' in the raaaaaain, Oh what a feeling!
+Rrrrrribbbit!!
+Please take this as a token of our froggish gratitude, ribbit!
+All right.
+See you, ribbit!
+
+Look at us, we're all huge frogs!!
+We are the world famous Fabulous Five Froggish Tenors!!
+Rrrribbit!!
+Make us jump so we can eat the bugs flying above us, ribbit!
+OK?
+Then, ready, set, go!
+
+Young boy, you did grrreat!
+Perrrrrfect!
+We are stuffed, ribbit!
+Would you take this token of our gratitude?
+
+Oh well, I don't remember that song, baby.
+Why?
+That's what I can't tell ya!
+Good golly!
+
+WHAAAAAT?!?
+Why are you doing this to me?
+What are you thinking?
+I'm not going to let you get off that easy!
+You have to pay me a 50-Rupee fine!
+Seriously!
+
+GYAAAH!
+You killed me!!
+Huh?
+Oh, it's you.
+Did you try to play the Sun's Song?
+Like I told you before, with that song, you can turn day to night or night to day whenever you want.
+When you're in darkness, that song should bring the sun's light to you.
+You should try it.
+
+When I dug a hole, I found a treasure that stretches--BOING!
+and shrinks--BOING!
+It's so fun, I'll never give it to anybody!
+
+The gravekeeper's diary is here.
+Do you want to read it?
+[C1]Yes
+[C2]No
+
+Whoever reads this, please enter my grave.
+I will let you have my stretching, shrinking keepsake.
+I'm waiting for you.
+--Dampe
+You decide not to read it…
+
+You defeated Poe the ghost!
+Do you want to catch it in a bottle?
+[C1]Yes
+[C2]No
+
+The rising sun will eventually set.
+A newborn's life will fade.
+From sun to moon, moon to sun…
+Give peaceful rest to the living dead.
+This is an interesting poem… huh?
+
+Restless souls wander where they don't belong, bring them calm with the Sun's Song.
+
+Something is inscribed on the tombstone…
+It's the secret melody of the Composer Brothers!
+
+Ultimate potion!
+How about 100 Rupees?
+[C1]Buy
+[C2]Don't buy
+
+If you change your mind, come back and visit me…
+Hee hee hee!
+
+You don't have enough Rupees!
+Hee hee hee!
+
+GYAAAAH!
+YOU KILLED ME…
+Unbelievable!
+Oh, what?
+You're not one of Ganondorf's men, are you?
+Because of my role as a ghost, I had to act like that.
+I apologize.
+Now then, let me introduce myself.
+Ahem…
+
+I am one of the ghostly composer brothers of Kakariko Village.
+All the people in this village are born to serve the Royal Family of Hyrule.
+We brothers also served the Royal Family, and were assigned to study the hereditary mystic powers of the family.
+Though we never could figure out the power of the Triforce, we had almost completed our study of controlling time with the tones of ocarinas.
+Uh, I mean…
+Actually, we did complete that study!
+We would have been famous, if that hateful Ganondorf had not tried to steal our results.
+We could never let him reap the fruits of our research!
+That's why we gave our lives to protect the secret.
+
+Do you want to hear what I said again?
+[C1]Yes
+[C2]No
+GYAAAAH!
+I'M DEAD AGAIN!
+What?
+You again?
+Somehow, you remind me of…
+Princess Zelda…
+Hmm…
+Since you may have some connection with the Royal Family, I will tell you a little more of our tale.
+Back then, people called us great composers because of the many musical masterpieces we wrote.
+But we brothers were not just composers.
+We had a mission to analyze the mysterious powers of Hyrule's Royal Family.
+Our names would be a part of Hyrule's history if we could complete our research!
+We kept our study extremely secret until we completed it.
+
+GYAAAAH!
+I'M DEAD AGAIN!
+What?
+You again?
+Somehow, you remind me of Princess Zelda.
+Since you seem to have some connection with the Royal Family, I will tell you a little more of our story.
+
+To tell the truth, each of us was studying a different song, one to summon the sun and another to summon the moon.
+If you were really sent by a member of the Royal Family, I will tell you about the results of our study.
+We inscribed it on the royal tombstone.
+As a messenger of the Royal Family, you should show your Royal credentials on top of the Triforce mark…
+
+Z Z Z…
+Malon… doing all right…
+Mumble… mumble…
+Sorry to make you worry…
+
+Ingo took over Lon Lon Ranch and they call it Ingo Ranch nowadays.
+I was kicked out of there, and look at me now!
+My girl, Malon, still works at the ranch…
+I'm worried about her…
+
+Did you save Malon?
+Thanks!
+I'm goin' back to the ranch, then!
+Yeehah!
+
+Hey kid!
+Don't mess around with the graves!
+I'm Dampe the Gravekeeper!
+My face may be scary, but I'm not a bad guy…
+Let me give you an advertisement for my side business…
+Dampe the Gravekeeper's Heart-Pounding Gravedigging Tour!
+What's gonna come out?!
+What's gonna come out?!
+When I start digging, we'll find out!
+
+Do you want me to dig here?
+10 Rupees for one hole.
+[C1]Yes
+[C2]Don't do it
+
+Nope, nothing here!
+
+Get back, @!
+
+@…
+A terrible thing has happened!
+The evil shadow spirit has been released!
+Impa, the leader of Kakariko Village, had sealed the evil shadow spirit in the bottom of the well…
+But the force of the evil spirit got so strong, the seal of the well broke, and it escaped into the world!!
+
+Let me take care of the village!
+I'm counting on you, @!
+
+The kid with the noble Zelda's Ocarina… 
+As I expected, you have come.
+I am Impa, one of the Sheikah.
+I am Princess Zelda's caretaker, and I am also the Sage who guards the Shadow Temple.
+
+Please look out for the Princess!
+
+@, the hero!
+Finally, all of us, the six Sages, have been awakened!
+The time for the final showdown with the King of Evil has come!
+Before that, though, you should meet the one who is waiting for you…
+The one who is waiting for you at the Temple of Time…
+
+We Sheikah have served the royalty of Hyrule from generation to generation as attendants.
+However… On that day seven years ago, Ganondorf suddenly attacked…
+and Hyrule Castle surrendered after a short time.
+Ganondorf's target was one of the keys to the Sacred Realm…the hidden treasure of the Royal Family…The Ocarina of Time!
+My duty bound me to take Zelda out of Ganondorf's reach.
+When last I saw you, as we made our escape from the castle, you were just a lad…
+Now I see that you have become a fine hero…
+
+I have to stay here…
+You go to Princess Zelda's side and protect her on my behalf.
+Now I put my power, which should be helpful to you, into this Medallion!
+
+How is your Cucco?
+Is he happy?
+Shall I check him out for you?
+
+I am the boss of the carpenters that Impa hired to improve this village and make it into a true city!
+But young men these days don't have any ambition…
+Do you know what I mean, kid?
+My workers are just running aimlessly around the village, and they're not making any progress at all…
+Even my own son doesn't have a job, and he just wanders around all day!
+
+They're all worthless, I tell you!!
+
+Look at that poor girl over there.
+She works so hard taking care of her chickens, even though touching them gives her goose bumps…
+What a trooper!
+I would really like to help her!
+I've just been feeling so charitable these days!
+Don't you feel that way, too?
+
+There's nothing to worry about…
+The Princess is safe now.
+
+Soon, you'll meet Princess Zelda face-to-face, and she will explain everything…
+That is when we, the six Wise Ones, will seal up the Evil King and return peace to Hyrule.
+
+Hehehe, young man…
+You were very quick to be able to keep up with me!
+Hehehe!
+As a reward, I'm going to give you my treasure.
+It's called the Hookshot!
+Its spring-loaded chain will pull you to any spot where its hook sticks.
+Doesn't that sound cool?
+I'm sure it will help you!
+I live here now, so come back again sometime.
+I'll give you something cool!
+One more thing!
+Be careful on your way back!
+Heheheh…
+
+You're back, young man…
+Was the present I gave to you fun and useful?
+
+The time of this race was 4:20!!
+
+Looks like you're coming around…
+
+I believe Impa has gone to the Shadow Temple to seal it again, but…she will be in danger without any help!
+@!
+Impa is one of the six Sages.
+Destroy the evil shadow spirit and save Impa!
+There is an entrance to the Shadow Temple beneath the graveyard behind this village.
+The only thing I can do for you is teach you the melody that will lead you to the Shadow Temple…
+This is the melody that will draw you into the infinite darkness that absorbs even time…
+Listen to this, the Nocturne of Shadow!!
+
+Go around!
+Go around and around and around!
+What fun!
+I'm so happy!
+I'm a music man who loves to go around and around!
+Go around and around!!!
+I'm trying to come up with a musical theme inspired by this windmill…going around and around and around!!!
+
+Go around, go around, go around…
+What?
+It's going way too fast!
+
+Grrrrrrrrr!
+I'll never forget what happened on that day, seven years ago!
+Grrrrrrrrr!
+It's all that Ocarina kid's fault!
+Next time he comes around here, I'm gonna mess him up!
+
+What?!
+You've got an ocarina!!
+What the heck!
+That reminds me of that time, seven years ago!
+Back then a mean kid came here and played a strange song.
+It messed up this windmill!
+
+What should I do!?
+My Cuccos have all flown away!
+You, little boy, please!
+Please help me bring them back to this pen!
+
+My Cuccos have run away!
+Please help me bring the other four back to this pen!
+Please!
+
+Thank you for finding my Cuccos.
+I have allergies, so I get goose bumps when I touch them.
+For helping me, I will give this to you.
+It's fine glass, and should be useful.
+Please take good care of it!
+
+Hey, what are you doing?!
+Now go round them up or pay for them!
+
+Please don't tease my Cuccos!
+
+I bred a new type of miniature Cucco!
+I call it the Pocket Cucco!
+I don't get goose bumps from this baby.
+Cuccos are very good at getting lazy, late-risers out of bed.
+Haven't you heard of them before?
+It makes them very happy to crow: CUCCKOOOO!
+especially when it wakes up a very heavy sleeper!
+However, my Cucco is not entirely happy right now…
+You…, You look like you're good at handling Cuccos.
+Here, take this egg.
+After the Cucco hatches, bring it back to me after a while, and I'll check out its mood.
+
+What do you think?
+Will you try?
+[C1]Yes
+[C2]No
+
+Oh, too bad…were you pecked by a Cucco when you were little?
+
+Heh heh heh, young man!
+Are you fast on your feet?
+I may not look like it, but I'm confident in my speed!
+Let's have a race!
+Follow me if you dare!
+
+Please make my Cucco happy!
+OK?
+
+Oh, your Cucco looks pretty happy!
+He must have awakened an extremely lazy guy!
+You're a good Cucco Keeper!
+I'll give you a rare, valuable Cucco, if you're interested…
+Its name is Cojiro, and it used to be my brother's Cucco.
+Its blue body is quite charming.
+It's so cute!
+Since my brother has gone, it's strange, but Cojiro has stopped crowing.
+
+Do you want to keep Cojiro?
+[C1]Yes
+[C2]No
+
+It looks as if you really like that other Cucco.
+OK, you can keep it for a while.
+
+An old witch runs the Potion Shop behind this one.
+You can get to that shop through the door to the left of the counter.
+
+My brother must have been very lonely…
+
+I heard that the Lost Woods, where fairies live, is a strange place with many mysterious smells.
+I wish I could just once make medicine with some of the strange things I might find there…
+I may not be able to see very well anymore, but my nose still works fine!
+Hehehe!
+
+Sniff sniff sniff…
+What a mysterious smell…
+You must have something!
+
+That bum!
+He had to go into the forest…
+…
+I see.
+
+Hey, give it to me now!
+[C1]Yes
+[C2]No
+
+How sad…
+I just need a little…
+
+If you see that fool, give this to him.
+It is the strongest medicine I have ever produced.
+However, this potion will not work on a monster…
+
+Hey, kid!
+If you want to carry medicine, you need a container to put it in!
+
+They say that there is no medicine that can cure a fool…
+I guess that's true…
+
+I can't get down, so all I can do is look at Death Mountain.
+
+I can't get down, so all I can do is look at the stars.
+
+Can you see it from there?
+Something is happening on Death Mountain!
+
+Can you see it from there?
+Death Mountain is back to normal!
+
+I don't feel like getting down, ever!
+Whatever happens, I'll keep watching Death Mountain from up here.
+
+Hey!
+Good to see you again!
+I'll give you this as a memento.
+
+Hey!
+Kid, do you always enter other people's houses without permission?
+Didn't your parents teach you any manners?
+Oh well.
+Did you see a lady behind this house?
+She's going through hard times.
+Oh well.
+
+If that lady asks you about chickens, you should listen to her.
+
+Is visiting other people's houses at this late hour your idea of fun?
+You must not have had a good upbringing.
+Oh well.
+
+That lady takes care of chickens, but she is, in fact, allergic to them.
+Oh well.
+
+Hey!
+Young man!
+A grown kid like you entering a person's house without permission?!
+I want to talk to your parents!
+Oh well.
+This isn't my house anyway.
+This is the great Impa's house!
+The great Impa has gone to the graveyard to seal up the humongous creature there.
+Since Ganondorf appeared, many monsters have been sighted around here.
+Only the great Impa has kept peace in our village.
+You have to remember that, young man!
+Oh well.
+Speaking of the great Impa, she hasn't come back yet.
+I wonder what happened to her?
+
+I heard that the ghost of the gravekeeper often appears in the graveyard behind this village…
+But, no big deal.
+
+Hi, boy!
+Is this the first time you've visited this village?
+A great woman, Impa, opened up this village to us poor folk.
+
+Well, make yourself at home.
+The food isn't ready yet, though.
+
+The great Impa is not here.
+Did something happen to her?
+
+All people have hardships in their past that they would rather no one found out about.
+
+Look at the bearded man sleeping over there.
+I bet even someone like him has had his share of troubles in the past…
+
+That bearded guy went back to the ranch.
+He looked so happy!
+
+Ding dong, ding dong!
+I'm a clock soldier of Kakariko!
+The current time is: 3:14.
+Hello there, son.
+Zelda's attendant, the great Impa, opened this village to the common people.
+We have only a small population now, but someday this place will be as lively as Hyrule Castle Town!
+Oh, yes!
+It will!
+Climb up the stairs at the north end of the village to find the trail that leads up Death Mountain.
+But you need the King's permission to actually go up the mountain.
+
+By the way, do you know what happened in the castle?
+
+Hey, son, what are you doing wandering around this late at night?
+Oh, I get it.
+You're testing your courage, aren't you?
+You must want to go to…a graveyard!
+Wait a minute!
+What am I doing talking to a kid?
+I've got work to do!
+Work!
+Work!
+
+There's a strange guy living in the Windmill.
+Have you already met him, Mx. @?
+
+People are disgusting.
+My own father and mother are disgusting.
+You must be disgusting, too!
+
+All day long, we are working on many construction projects in the village.
+It's going to take awhile before everything is done.
+Our boss works us very hard!
+
+I'm starving!
+Let's eat dinner, right now!
+
+Those guys each do the work of half a man, but they still want a full man's portion!
+They're lazy slackers, I tell you!
+
+@!
+This ship is sinking!
+Abandon ship!
+Get onto a safe platform!
+
+I'm still missing some Cuccos!
+Please round up five more!
+
+Don't cause trouble!
+I'll tell Dampe!
+
+Look at this, kid!
+My beautiful, smooth hands are all worn out from working.
+Sob sob…
+
+A job where you can make a lot of money without much effort…
+The only thing I can think of is thievery…
+Is that a bad idea?
+
+I heard that our boss's house is just behind this house.
+He doesn't want any of us to know, though.
+
+Have you seen Mr. Dampe, who lives in the graveyard up ahead?
+It's 4:20 right now, so he's probably asleep in his hut.
+Why don't you go out onto the field and kill some time?
+
+I'm starving!
+Isn't dinner ready yet?
+It's 6:09 already!
+
+This used to be the great Impa's house, but she doesn't live here any longer.
+It is now open to all villagers.
+You are free to go on in.
+
+This village used to be a Shiekah village, but the great Impa opened it to everyone.
+
+I tell you, I saw him!
+I saw the ghostly figure of Dampe the gravekeeper sinking into his grave.
+It looked like he was holding some kind of treasure!
+
+There he is!
+It's him!
+He's the one who dropped from the sky surrounded by a blue light!
+Now do you believe me?
+
+Nobody believes what I've been telling them all these past seven years!
+
+The fire almost consumed us all!
+But together, we all were able to put out the fire!
+Pretty good work, don't you think?
+
+Wah hah hah hah hah hah!
+Look at this guy!
+Ever since he escaped from Hyrule Castle Town, he's become even more timid!
+
+Wah hah hah hah hah hah!
+He must have been seeing things!
+Wah hah hah hah hah hah!
+
+Wah hah hah hah hah hah!
+Those are some funny-looking clothes, man!
+
+Wah hah hah hah hah hah!
+When times are tough, laughter is the best medicine!
+That's what my dad always said!
+
+Look at me!
+I'm on top of the world!
+It really bothers me to see anyone at a higher level than I am!
+I have to be on top!
+
+If I fall asleep up here, I'll surely fall down…
+
+The windmill draws water up from the depth of the well.
+Now the well is dried up, though.
+Hrrrrm…
+
+The lady here is really generous.
+She even took care of the carpenters when they were here!
+
+A long time ago…
+There was a man in this very village who had an eye they said could see the truth!
+Now usually, you have to train your mind's eye most strenuously to actually see the truth…
+But this fella, no, they say he had a different way of doing things…
+His house stood where the well is now…
+
+Folks around here tell of a fabulously rich family that once lived in one of the houses in this village…
+But they say that the entire family was cursed due to their greed!
+Who knows what might happen to those who are consumed by greed…
+
+Heh…
+What an annoying person, interrupting us like this…
+Don't you agree, my love?
+
+Hee hee…
+Violating our personal space!
+He must have something better to do…
+Don't you agree, darling?
+
+Look at him…the man with the beard.
+I think he was fired from his job at the ranch…
+
+He's always just lazing around, morning, noon and night.
+He's an awfully carefree guy during such hard times.
+
+That lazy man, he kind of reminded me of my little Richard…
+What's that?
+You say you've never heard of my little Richard?
+He was such a famous puppy!
+You seriously haven't heard of him?
+
+Oh, no!
+A storm again!!
+You played the Ocarina again, didn't you!!
+Grrrrrrrrrrrrrrr!!
+
+You caught a Big Poe!
+Sell it at the Ghost Shop for a lot of money!
+
+Halt!
+Stay where you are!
+
+Hey, newcomer!
+
+Hey, newcomer!
+Wait a second and I'll open the gate for you.
+
+Don't take us so lightly!
+
+I've seen your fine work.
+To get past the guards here, you must have good thieving skills.
+I used to think that all men, besides the great Ganondorf, were useless…but now that I've seen you, I don't think so anymore!
+The exalted Nabooru, our leader, put me in charge of this fortress.
+Nabooru is the second-in-command to the great Ganondorf, King of the Gerudo Thieves.
+Her headquarters are in the Spirit Temple, which is at the end of the desert.
+Say, you must want to become one of us, eh?
+All right, then!
+You're in from now on!
+Take this.
+With it, you will have free access to all areas of the fortress!
+
+From now on, you're free to come and go as you please through the gate to the desert.
+You'll find the Spirit Temple, where the exalted Nabooru lives, out there in the desert.
+
+Stupid Kid!
+Get in there and keep quiet!
+
+I have no idea where you come from, but you must have a lot of guts to make it past all the guards around here!
+All of my fellow carpenters are imprisoned somewhere in here.
+If you can get us out of here, we'll repay the favor somehow!
+But be careful!
+There're sure to be Gerudo guards somewhere around here…
+Woo!
+Watch out!
+
+The Entrance to the Past
+The Entrance to the Present
+The Entrance to the Future
+I'll be your guide on your way, but coming back, I won't play!
+I'll show you the only way to go, so follow me and don't be slow!
+
+Past, present, future…
+The Master Sword is a ship with which you can sail upstream and downstream through time's river…
+The port for that ship is in the Temple of Time…
+To restore the Desert Colossus and enter the Spirit Temple, you must travel back through time's flow…
+Listen to this Requiem of Spirit…
+This melody will lead a child back to the desert.
+
+I am the Gerudo master of horseback archery!
+On top of that, I'm the Gerudo master of horseback riding!
+Want to try horseback archery for 20 Rupees?
+[C1]Yes
+[C2]No
+
+You have guts.
+I like you.
+Follow me.
+
+It's out of the question if you don't have a horse!
+
+I won't have anything to do with a coward like you!
+
+Ah, you are not as good as you claim.
+Maybe next time.
+
+You did well.
+For today, I admit I lost.
+It seems I have a lot of room for improvement.
+
+This is the Gerudo's Training Ground.
+Nobody is allowed to enter without a membership card.
+
+This is the Gerudo's Training Ground.
+Membership card verified.
+One try for 10 Rupees!
+[C1]Try
+[C2]Don't try
+
+All right, I'll take your 10 Rupees.
+Give it your best shot!
+
+You don't have enough money!
+Come back again.
+
+Hey, rookie!
+Are you going into the desert?
+I'll open this gate for you, but…
+You can't cross the desert unless you pass the two trials.
+
+The first trial is… the River of Sand!
+You can't walk across this river!
+After you cross it, follow the flags we placed there.
+The second trial is… the Phantom Guide!
+Those without eyes that can see the truth will only find themselves returning here.
+You are going anyway, aren't you?
+I won't stop you…
+Go ahead!
+
+Why did you come all the way down here?
+What?
+You were just about to ask me the same thing?
+
+Well, now that you're down here, you may as well make the best of things!
+
+Good kid!
+Thanks!
+I'm sorry that I can't give you something as good in return, but…
+take this anyway!
+
+I haven't seen you around, kid…
+What do you want?
+You're just a kid!
+The temple is no place for kids!
+
+A Sage?
+I don't know anyone like that.
+
+You have nothing to do?
+What good timing!
+Can you do me a favor, kid?
+Wait a second, I want to ask you first--you wouldn't happen to be one of Ganondorf's…
+followers…would you?
+What if I am?
+I hate Ganondorf!
+
+Wha-ha-ha!
+Don't try to act cool, kid.
+I was just asking!
+A kid like you could never be one of Ganondorf's followers!
+Well, let's cut to the chase…
+
+Uh-huh!
+You've got guts.
+I think I like you.
+
+First of all, let me introduce myself.
+I'm Nabooru of the Gerudo.
+I'm a lone wolf thief.
+But don't get me wrong!
+Though we're both thieves, I'm completely different from Ganondorf.
+With his followers, he stole from women and children, and he even killed people!
+A kid like you may not know this, but the Gerudo race consists only of women.
+Only one man is born every hundred years…
+Even though our laws say that lone male Gerudo must become King of the Gerudo, I'll never bow to such an evil man!
+By the way, what is your name, kid?
+@?!
+What kind of name is that?
+Well…anyway…
+
+I want to ask you a favor…
+Will you go through this tiny hole and get a treasure that's inside?
+The treasure is the Silver Gauntlets.
+If you equip them, you can easily push and pull very heavy things!
+No, no, no, kid!
+Don't even think about taking this treasure for yourself!
+The Silver Gauntlets won't fit a little kid like you if you try to equip them!
+I want you to be a good kid and give them to me!
+Ganondorf and his minions are using the Spirit Temple as a hideout.
+Only the Silver Gauntlets will allow me to sneak deep into the temple.
+Once there, I'm going to steal all the treasure inside and mess up their plans!
+How about it?
+Will you do it?
+[C1]Yes
+[C2]No
+
+Thanks, kid!
+You and I, let's give Ganondorf and his followers a big surprise, shall we?
+
+If you can successfully get the Silver Gauntlets…
+I'll do something great for you!
+
+Well, what did I expect?
+After all, you're just a kid!
+
+Hey!
+Where are you taking me?!
+
+Ho ho ho!
+Looks like someone is here, Koume.
+
+Hee hee hee!
+Looks like it, Kotake!
+
+What an outrageous fellow he is, to intrude so boldly into our Temple…
+Ho ho ho!
+
+We should teach this outrageous fellow a lesson!
+Hee hee hee!
+
+Oh, loyal minion…
+
+Destroy this intruder on our behalf!
+
+Great Ganondorf's…Enemy…
+Must die…
+
+Unnnh…
+Where am I…?
+
+Well, well…
+Looks like she's back to normal…
+Koume…
+
+She's just a little girl, but she commands a lot of respect among the Gerudo, Kotake…
+
+Maybe we should make her work for the great Ganondorf for a little while longer!
+Ho ho ho!
+
+Then we should brainwash her again!
+Hee hee hee!
+
+Kid, let me thank you.
+Heheheh…look what the little kid has become in the past seven years--a competent swordsman!
+
+If only I knew you would become such a handsome man…
+I should have kept the promise I made back then…
+
+Here, I'll give you this…
+It's a very important thing to me.
+Let's have a competition later!
+
+@… see you again!
+
+By the way…
+I really messed up…
+I was brainwashed by those old witches and used by Ganondorf to do his evil will…
+But isn't it funny?
+That a person like me could turn out to be the Sage of Spirit!
+And now, I'm going to fight them as one of the six Sages!
+Heh heh…
+I'm going to pay them back for what they did to me!
+
+Kid…
+No…
+@, the Hero of Time!
+Instead of keeping the promise I made back then, I give you this Medallion!
+Take it!
+
+Yeearggh!
+Let me go!!
+
+You, you fiends!
+Ganondorf's minions!
+
+@!
+Get out of here!
+Now!
+
+These witches!
+They're using black magic on me!
+
+Hey, newcomer!
+This is our horseback archery field.
+After a lot of hard practice and training, we finally have the skill to hit the bull's-eye while riding like the wind!
+When you finally learn how to ride a horse, you should come back and try it.
+It's a dangerous sport, but it's fun!
+
+Hey newcomer, you have a fine horse!
+I don't know where you stole it from, but…
+OK, how about challenging this horseback archery?
+Once the horse starts galloping, shoot the targets with your arrows.
+Let's see how many points you can score.
+You get 20 arrows.
+If you can score 1,000 points, I will give you something good!
+
+Do you want to try again for 20 Rupees?
+[C1]Yes
+[C2]No
+
+Hey, rookie!
+You're looking good!
+Show me your skill again!
+You should set a new goal of 1,500 points and try again!
+
+What?
+Do you want to try again?
+Looks like you have some potential!
+
+I'll be darned!
+You are a true master!
+I will give you an item suitable for a master.
+This quiver is very important to me.
+I want you to have it.
+Take good care of it, OK?
+
+0 points…Hmm…
+Wha-ha-ha!
+You have plenty of room for improvement!
+
+Fantastic!
+You are the ultimate master!
+I will give you this item.
+Once you have this equipment, the only thing left to improve is yourself!
+
+2 points…
+Quite impressive!
+
+Look at that stupid kid!
+He came on his own to offer himself as a sacrifice to the great Ganondorf…
+
+With my flame, I will burn him to the bone!
+
+With my frost, I will freeze him to his soul!
+
+Shoot, what a fresh kid!
+This time, we'll get serious, right Kotake?
+
+What?
+Hey, Koume, what is that above your head?
+
+I don't know, but you have one over your head too, Kotake!
+
+But I'm only 400 years old!
+
+And I'm just 380 years old!
+
+We're twins!
+Don't try to lie about your age!
+
+You must have gone senile!
+
+Who are you calling senile?!
+Is that how you treat your older sister?
+
+We are twins!
+How can you be older?
+
+Keeeyaaah!!
+How heartless you are!
+
+How can you be so ungrateful?
+
+You're heartless!!
+
+You ungrateful…
+
+I'll come back to haunt you!
+
+OK, let's get serious now, Kotake!
+
+Oh, OK, Koume.
+Kotake and Koume's Double Dynamite Attack!
+
+Did you come here to save me?
+Oh, that's just swell!
+I'm Ichiro the carpenter.
+We were really interested in joining their all-female group, but they locked us up like this just because we're men!
+We don't care about the Gerudo anymore!
+They're so rude!
+Three of my fellows have also been captured, so please help them escape, too!
+
+You're a cute kid!
+Thank you for coming to save me!
+I'm Jiro, the carpenter.
+These women are so scary!
+I'd rather work as a carpenter than join them!
+I can't wait to say good-bye to this place!
+Two of my buddies are still being held prisoner.
+Will you please get them out, too?
+
+Thanks, boy!
+You're fantastic!
+I'm Sabooro, the carpenter.
+Have you seen our boss, boy?
+He's probably worried about me!
+I have to get back to him immediately!
+One more of our workers is still a prisoner.
+Please save him!
+
+I was afraid you were going to forget about me!
+Now I'm free!
+Thanks!
+I'm Shiro the carpenter.
+For rescuing me, I'll tell you something interesting about the desert that I overheard the Gerudos talking about.
+They said, 'In order to cross the Haunted Wasteland, you'll need the 'eye of truth.' The Colossus is on the far side of the wasteland…' OK, now I'm going back to my tent near Gerudo Valley, so, drop by sometime.
+You may find something helpful there!
+Byeee!
+
+The leader of the gang of thieves is Nabooru.
+She is experimenting in brainwashing many people at the ruins in the desert.
+
+Oh, it was Ganondorf the Evil King who was behind the gang of thieves…
+
+When Nabooru was a lone wolf thief, she never stole from the weak, but…
+
+Now, Nabooru's gang of thieves stands for cruelty and brutality.
+She claims to be a chivalrous robber, but…no way!
+
+Like I suspected, Nabooru was brainwashed by Ganondorf's followers…
+
+In Gerudo society, those who have great skill in horseback riding and archery are well respected.
+
+How about trying horseback archery at the Gerudo's Fortress?
+If you have a horse, a Gerudo from the fortress will set up your challenge.
+
+You did so great, young man!
+
+Now that we're all back together, building a bridge over the valley was a piece of cake.
+
+Without the old witches, the gang of thieves isn't all that scary!
+
+The Gerudo's Fortress is located beyond this gate.
+A kid like you has no business there.
+
+I am a master craftsman.
+Those Gerudo thieves…they broke the bridge.
+I want to fix it, but all of my workers are gone!
+They said working as carpenters isn't cool, and they went to the Gerudo's Fortress to become thieves…
+
+Hey, you!
+If you're going to the fortress, would you mind finding out what my workers are doing over there?
+
+Hey, I heard you saved my men.
+When they returned, we built this bridge.
+Look at this!
+Isn't it a fine bridge?
+They may be wimpy carpenters, but once they all got together, they got the job done.
+
+Hey, that saw!
+It's mine!
+But…
+I thought I left that saw with my old lady…
+Oh well…
+
+My Biggoron tool broke, so I was going to Goron City to get it repaired.
+Your coming here is great timing.
+Will you give me my saw?
+[C1]Yes
+[C2]No
+
+What?!
+You're a dirty, rotten thief!
+
+This is the Gerudo's Training Ground.
+Unqualified persons are not allowed.
+
+This is the Gerudo's Training Ground.
+You're qualified…
+C'mon in and hone your skills as much as you want.
+
+This is the Gerudo's Training Ground.
+Even though you're qualified, don't hog all the treasure here for yourself!
+
+Oh, that's too bad.
+The mark that will lead you to the Spirit Temple is the flag on the left outside the shop.
+If you change your mind, please come back again!
+
+Ohh, not enough Rupees.
+No discounts, even a Rupee.
+
+Heh heh.
+You're already in the middle of something, aren't you.
+If you want to challenge me, you have to come here with a clear mind.
+No other distractions!
+
+Well Come!
+I am selling stuff, strange and rare, from all over the world to everybody.
+Today's special is…
+A dangerous, running object!
+Terrifying!
+I won't tell you what it is until I see the money…
+How about 200 Rupees?
+[C1]Buy
+[C2]Don't buy
+
+Thank you very much!
+What I'm selling is…
+Bombchu!
+The mark that will lead you to the Spirit Temple is the flag on the left outside the shop.
+Be seeing you!
+
+Hey, what's up, @?
+Surprised to see me?
+A long time in this world is almost nothing to you, is it?
+How mysterious!
+Even I thought that the tales of a kid who could travel back and forth through time was merely a legend.
+@, you have fully matured as an adult.
+
+From now on, the future of all the people in Hyrule is on your shoulders.
+Maybe it's not my time anymore.
+Here is my last advice.
+Two witches inhabit this temple.
+In order to destroy them, turn their own magic power against them.
+Hoo hoot!
+
+Do you want to hear what I said again?
+[C1]Yes
+[C2]No
+
+I will continue to watch you…
+Hoo hoo hoo hoot!
+
+I'm the wandering running man!
+I've run all over this land in search of true competitive spirit.
+I beat all my challengers, man and beast.
+You're an athletic guy, and you look like you might have a true killer instinct, too.
+Now that the bridge over Gerudo Valley is complete, I'm looking for a challenger to have a commemorative race against.
+
+The best time to go from here to the bridge in the Lost Woods was .
+That's my record.
+Will you challenge my record?
+[C1]Yes
+[C2]No
+
+Excellent!
+Then…
+You go first.
+I'll give you a headstart.
+Now!
+Go ahead.
+
+Heh heh heh.
+You'll never discover your killer instinct with that kind of attitude.
+
+Well, not perfect, but you have some guts!
+Unfortunately, you never can beat me.
+Your record is a thing of the past.
+Your time was , wasn't it?
+That was close, but I beat you by one second!
+
+Heh heh heh.
+Please.
+Go ahead.
+
+Oh, looks like you quit the race.
+Heh heh heh.
+I bet you had almost rediscovered your killer instinct!
+
+Heh heh.
+You don't have enough killer instinct yet.
+Just train harder.
+Good-bye, then!
+
+Huff…puff…huff…
+Huff…huff…whew!
+You did quite well!
+But you couldn't beat me!
+Your time was 1:10, but I just beat you by one second!
+Huff…huff…
+You'll have to challenge me again sometime!
+Huff…huff…
+Good-bye, then!
+
+I'm the wandering running man!
+I've run all over this land in search of competitors who have a true killer instinct!
+I came here to run through the Haunted Wasteland, but it doesn't look like good timing for that.
+Though I want to go back to Hyrule Field, the bridge is…well, you can see it from here.
+So I'm stuck here, inside this tent.
+I don't think I can accept your challenge right now.
+Heh heh!
+
+I can't catch that Cucco!
+
+Huff huff!
+I'm late!
+I'm late!
+For a very important date!
+
+Welcome to Hyrule Castle Town.
+It's a peaceful, prosperous town.
+
+Kids shouldn't be wandering around town at nighttime!
+Stay indoors until morning!
+
+Man, I am SO bored…
+Things would sure be more interesting if there were more… troubles in the world…
+Hey, that's just between you and me, OK?
+Anyway, maybe we can let off some steam by breaking these jars.
+
+That's great!
+I forgot to tell you…
+
+There's a lot going on in the castle right now.
+I can't allow even a dog to get into the castle!
+
+Unnngh…are you the kid from the forest…?
+I-I-I've finally met you…
+I-I-I have something to t-t-tell you…
+Ganondorf, the Gerudo King of Thieves, betrayed our King…
+Zelda's nanny, Impa, sensed danger and escaped from the castle with our Princess…
+I tried to stop Ganondorf's men from chasing them…but…
+The Princess was…waiting for a kid from the forest…that's you…
+She wanted to give something to the boy…
+If you received it from the Princess, hurry…to the Temple of Time…
+
+He's not moving anymore…
+
+Can you see the man with the evil eyes?
+That is Ganondorf, the leader of the Gerudos.
+They hail from the desert far to the west.
+Though he swears allegiance to my father, I am sure he is not sincere.
+The dark clouds that covered Hyrule in my dream…
+They must symbolize that man!
+
+Geh heh heh!
+Excellent work!
+As I thought, you held the keys to the Door of Time!
+You have led me to the gates of the Sacred Realm…
+Yes, I owe it all to you, kid!
+
+Please!
+If you don't hurry, he'll be gone!
+
+Please sell me the contents of a bottle…
+
+What a strange shop!
+I wonder when it'll be open for business.
+I read the sign there, but it still seems weird!
+
+It seems like it's taking forever for dawn to come…
+The view of Hyrule Castle in the morning sun is so fantastic!
+
+To save the forest girl, you need another skill…
+Head to Kakariko Village!
+
+It looks like you have the skills you need…
+The forest girl is waiting for your help…
+
+If you want potions, you'd better bring an empty bottle.
+Understand, young man?
+
+I'm sorry, but this is just a model.
+Because of the crisis in Goron City, we haven't received any shipments lately and we're out.
+
+If you plan on scaling Death Mountain, buy a Hylian Shield.
+You can defend yourself against falling rocks with that shield.
+But it might be a little bit big for a kid…
+
+I'm not dancing, you know…
+My back itches!
+Ooh!
+Aaah!
+Ooh!
+
+They say we Hylians have big ears in order to hear the voices of the gods…but I've never heard them!
+
+Kid, have you been to Lon Lon Ranch?
+Their milk is delicious!
+There are many horses there, and the young daughter of the ranch owner is cute!
+
+To get to Lon Lon Ranch, after you leave town, head due south across the field.
+You should visit the ranch at least once!
+
+I wanted to see Princess Zelda!
+I avoided the guards…
+Swam through the moat…
+I was almost there when they caught me!
+
+I found a small drain hole on the right side of the castle that I thought I could sneak into, but I got stuck there.
+
+Ahem!
+Hrrrm!
+This beard is my pride and joy!
+Doesn't it look luxuriant, kid?!
+
+Ahem!
+Hrrrm!
+This beard is my pride and joy!
+Doesn't it look luxuriant, kid?!
+What?!
+You're looking for the guy from Lon Lon Ranch?
+Hmm, maybe…
+
+I saw a guy with a shabby-looking beard delivering some boxes to the castle.
+
+Do you know about the Temple of Time that we have in the northeast part of town?
+
+Legends say that the Temple of Time is the entrance to the Sacred Realm…
+Did you know that?
+
+Wha-ha-ha!
+What a crazy guy!
+Can you believe this guy was crazy enough to try to sneak into the castle to see Princess Zelda?
+
+All because of this idiot, they've tightened security at the castle.
+Wha-ha-hah!
+
+I made a lot of money!
+Maybe I should go look for more things to sell!
+
+I know!
+I should go to Lake Hylia!
+Many things float down the river and end up there!
+Hah hah!
+
+Hey, forest boy!
+This is the city of Hyrule!
+Take your time and enjoy the sights!
+
+If you came here to see Hyrule Castle, take the street on your right.
+If you want to see the back alleys of the town, take the street to the left.
+
+Ohh…
+You are…so handsome…
+Just like the King of Hyrule…
+Hee hee…
+
+Ohh…
+You are…
+more beautiful…
+than Princess Zelda…
+Ohh…
+
+Have you heard the legend of the 'Shadow Folk'?
+They are the Sheikah…the shadows of the Hylians.
+They say they swore allegiance to the King of Hyrule and guarded the Royal Family.
+But with the long peace, no one has seen a Sheikah around here for a long time.
+However…
+
+I heard there is one Sheikah woman living in the castle…
+
+So you say you want to see Princess Zelda, eh?
+You probably heard about her in town and decided you had to meet her…
+Well…
+Go home!
+Get out of here!
+The Princess would never grant an audience to the likes of you!
+
+Z Z Z Z Z…
+Mumble mumble…
+Welcome…our ranch is so fun…
+C'mon and look around…
+
+What in tarnation?
+Can't a person get a little shut- eye around here?
+
+Hello, and who might you be?
+Yep, I'm Talon, the owner of Lon Lon Ranch.
+I went to the castle to deliver some milk, but I sat down here to rest, and I guess I fell asleep…
+What?!
+Malon was looking for me?
+I'm gonna catch it from her now!
+I messed up bad, leaving Malon behind to wait for me!
+She's really gonna let me have it!
+
+Hey you!
+Stop!
+You, kid, over there!
+
+!
+Who?!
+
+Who are you?
+How did you get past the guards?
+
+Do you have it?
+[C1]Yes
+[C2]No
+
+Well, that's odd…
+I thought you might be the one from my dream…
+You really don't have it?
+Tell me the truth…
+
+Just as I thought!
+
+Please keep this a secret from everyone…
+[C1]OK
+[C2]No
+
+C'mon…don't be a blabber-mouth!
+
+The legend goes like this…
+
+The three goddesses hid the Triforce containing the power of the gods somewhere in Hyrule.
+The power to grant the wish of the one who holds the Triforce in his hands.
+If someone with a righteous heart makes a wish, it will lead Hyrule to a golden age of prosperity…
+If someone with an evil mind has his wish granted, the world will be consumed by evil…That is what has been told…
+So, the ancient Sages built the Temple of Time to protect the Triforce from evil ones.
+
+That's right…
+The Temple of Time is the entrance through which you can enter the Sacred Realm from our world.
+But the entrance is sealed with a stone wall called the Door of Time.
+And, in order to open the door, it is said that you need to collect three Spiritual Stones.
+And another thing you need…is the treasure that the Royal Family keeps along with this legend…
+
+Oh, I'm sorry.
+I'm not very good at storytelling…
+
+What happened?
+Did he see you?
+Don't worry.
+He doesn't have any idea what we're planning…yet!
+
+Please!
+OK I don't believe you.
+
+Thank you!
+
+My attendant will guide you out of the castle.
+Don't be afraid to talk to her.
+
+The Spiritual Stone…
+You finally found it!
+It is said that the races that hold the Spiritual Stones open their minds only to one who knows the melody of the Royal Family.
+But you already know that, don't you?
+
+Hey, have you heard that Princess Zelda sees prophetic visions in her dreams?
+
+Huh?
+What?
+Shoo, kid!
+Shoo!
+
+There are three hollows and an inscription here…
+Ye who owns 3 Spiritual Stones Stand with the Ocarina of Time And play the Song of Time That is how the inscription reads.
+
+C'mon, can't you make it any cheaper?
+
+Hey, let go!
+It's mine!
+I found it first!
+
+Hey, who bumped me?!
+
+We don't see a lot of Gerudos in these parts…
+Something fishy is going on!
+
+Wasn't that Princess Zelda riding on the white horse?!
+
+I almost got kicked by that black horse!
+
+That guy riding on the black horse must have been Ganondorf, who is renowned as the Gerudo King of Thieves.
+
+What happened?!
+
+Look at that guy--he's so scared!
+What a wimp!
+Ha ha hah!
+
+I have a feeling something terrible is going to happen…
+Maybe I should leave town soon.
+
+Something happened in the castle!
+Kid, you'd better be careful!
+
+With that key, proceed to the room ahead.
+Go, go!
+
+The one riding on the white horse holding the little girl…
+Wasn't that a legendary Sheikah?
+
+@… Wake up…
+@, the chosen one…
+
+I am Rauru, one of the ancient Sages…
+Ages ago, we ancient Sages built the Temple of Time to protect the entrance to the Sacred Realm…
+This is the Chamber of Sages, inside the Temple of Light…
+The Temple of Light, situated in the very center of the Sacred Realm, is the last stronghold against Ganondorf's evil forces.
+The Master Sword--the evil- destroying sword that you pulled out of the Pedestal of Time--was the final key to the Sacred Realm.
+@… Don't be alarmed…
+Look at yourself…!
+
+Look @!
+You're big now!!
+You've grown up!
+
+The Master Sword is a sacred blade which evil ones may never touch…
+Only one worthy of the title of 'Hero of Time' can pull it from the Pedestal of Time…
+However, you were too young to be the Hero of Time…
+Therefore, your spirit was sealed here for seven years.
+And now that you are old enough, the time has come for you to awaken as the Hero of Time!
+Well, do you understand your destiny?
+[C1]Yes
+[C2]No
+
+Right, it looks like you are confused…
+Let me tell you again, from the beginning.
+
+But, remember…
+Though you opened the Door of Time in the name of peace…
+Ganondorf, the Gerudo King of Thieves, used it to enter this forbidden Sacred Realm!
+He obtained the Triforce from the Temple of Light, and with its power, he became the King of Evil…
+His evil power radiated from the temples of Hyrule, and in seven short years, it transformed Hyrule into a world of monsters.
+My power now has only little influence, even in this Sacred Realm…
+Namely, this Chamber of Sages.
+But there is still hope…
+The power of the Sages remains.
+When the power of all the Sages is awakened…
+The Sages' Seals will contain all the evil power in the void of the Realm…
+I, Rauru, am one of the Sages…
+And…
+Your power to fight together with the Sages makes you the Hero of Time!
+The Hero of Time, chosen by the Master Sword!
+Keep my spirit with you…
+And, find the power of the other Sages and add their might to your own!
+
+@…we're back in the Temple of Time…
+But have seven years really passed?
+It looks like you won't be able to use some of the weapons you found as a kid anymore…
+Let's get out of here!
+
+Heyyy, what…?
+What's wrong with loitering around all day?
+Huh, kid?
+
+I've been waiting for you, Hero of Time…
+
+When evil rules all, an awakening voice from the Sacred Realm will call those destined to be Sages, who dwell in the five temples.
+One in a deep forest…
+One on a high mountain…
+One under a vast lake…
+One within the house of the dead…
+One inside a goddess of the sand…
+Together with the Hero of Time, the awakened ones will bind the evil and return the light of peace to the world…
+This is the legend of the temples passed down by my people, the Sheikah.
+
+Oh, I'm sorry.
+We're not open for business yet.
+Please come back soon!
+
+Use the Master Sword!
+Destroy Ganon with the sacred sword!
+
+I have been waiting for you, @.
+
+@, the Hero of Time…
+You have overcome many hardships and awakened six Sages.
+And now you have a final challenge, a showdown with Ganondorf, the King of Evil…
+
+If you would seek the sacred triangle, listen well…
+The resting place of the sacred triangle, the Sacred Realm, is a mirror that reflects what is in the heart…
+the heart of one who enters it…
+If an evil heart, the Realm will become full of evil; if pure, the Realm will become a paradise.
+The Triforce…the sacred triangle…
+it is a balance that weighs the three forces: Power, Wisdom and Courage.
+If the heart of the one who holds the sacred triangle has all three forces in balance, that one will gain the True Force to govern all.
+But, if that one's heart is not in balance, the Triforce will separate into three parts: Power, Wisdom and Courage.
+Only one part will remain for the one who touched the Triforce…the part representing the force that one most believes in.
+If that one seeks the True Force, that one must acquire the two lost parts.
+Those two parts will be held within others chosen by destiny, who will bear the Triforce mark on the backs of their hands.
+
+Seven years ago, Ganondorf, the King of Thieves, used the door you opened in the Temple of Time and entered the Sacred Realm.
+But when he laid his hands on the Triforce, the legend came true.
+
+The one who holds the Triforce of Courage is…
+You, @!
+
+And the other, who holds the Triforce of Wisdom…
+is the seventh Sage, who is destined to be the leader of them all…
+
+It is I, the Princess of Hyrule, Zelda.
+
+I apologize for meeting you in disguise, but it was necessary to hide from the King of Evil.
+Please forgive me…
+
+I saw you as I was escaping from the castle with my attendant, Impa.
+
+As long as you had the Ocarina in your possession, I thought Ganondorf could never enter the Sacred Realm, but…
+something I could never expect happened…
+
+That rumbling…It can't be!?
+
+Princess Zelda…you foolish traitor!
+I commend you for avoiding my pursuit for seven long years.
+
+If you want to rescue Zelda, come to my castle!
+
+@…can you hear me?
+It's Rauru, the Sage.
+We six will gather our power to create a bridge to the castle where Ganondorf dwells…
+The castle's keep, which is known as Ganon's Tower, is protected by six evil barriers.
+Bring down the six barriers and save Princess Zelda!!
+
+@!
+Finish him off with the sword of time, the Master Sword!
+
+Oh sealed door opened by the Sages…
+Close forever with the Evil Incarnation of Darkness within!!
+
+Thank you, @…
+Thanks to you, Ganondorf has been sealed inside the Evil Realm!
+Thus, peace will once again reign in this world…for a time.
+
+Thank you…
+@…
+Good-bye…
+
+Do you really want to go through this gate that much?
+Let me think about it…
+OK, but in return…
+
+Give me 10 Rupees…
+[C1]Yes
+[C2]No
+
+Please believe me…
+My prophecies have never been wrong!
+
+You destroyed the wicked creatures that haunted the temple and awakened the Sage…
+But there are still other Sages who need your help.
+In order to awaken all the other Sages, you must become even more powerful.
+You must travel over mountains…
+under water… and even through time…
+
+As long as you hold the Ocarina of Time and the Master Sword, you hold time itself in your hands…
+@, we shall meet again!
+
+This is a new type of bomb!
+It's available only in limited quantities, and when I'm sold out, that's it!
+
+I am Sheik.
+Survivor of the Sheikahs…
+
+As I see you standing there holding the mythical Master Sword, you really do look like the legendary Hero of Time…
+
+If you believe the legend, you have no choice.
+You must look for the five temples and awaken the five Sages…
+
+One Sage is waiting for the time of awakening in the Forest Temple.
+The Sage is a girl I am sure you know…
+Because of the evil power in the temple, she cannot hear the awakening call from the Sacred Realm…
+Unfortunately, equipped as you currently are, you cannot even enter the temple…
+But, if you believe what I'm saying, you should head to Kakariko Village…
+Do you understand, @?
+
+I thought I should entrust the Ocarina to you…
+I thought that would be our best chance…
+
+Before that…I have things I want to tell only to you.
+Please listen.
+Another unknown legend of the Triforce passed down by the shadow folk, the Sheikahs…
+
+The Triforce separated into three parts.
+Only the Triforce of Power remained in Ganondorf's hand.
+
+The strength of the Triforce of Power enabled him to become a mighty, evil king, but his dark ambitions were not satisfied.
+
+To gain complete mastery of the world, Ganondorf started looking for those chosen by destiny to hold the two other Triforce parts.
+
+On that day, seven years ago, Ganondorf attacked Hyrule Castle.
+
+After you opened the door of time, the Master Sword sealed you away in the Sacred Realm…
+
+Your spirit remained in the Sacred Realm…and then the Triforce fell into Ganondorf's hands.
+He went on to invade the Sacred Realm…
+Ganondorf had become the Evil King, and the Sacred Realm became a world of evil.
+All of this is an unfortunate coincidence.
+I passed myself off as a Sheikah and hoped that you would return.
+I waited for seven years…
+
+And…now you are back.
+The dark age ruled by Ganondorf the Evil King will end!
+
+The six Sages will open the sealed door and lure Ganondorf back into the Sacred Realm.
+I will then seal the door to the Sacred Realm from this world.
+Thus, Ganondorf the Evil King will vanish from Hyrule.
+@…
+In order to do this, I need your courage again.
+Please protect me while I do my part.
+And here is a weapon that can penetrate the Evil King's defenses…
+The power given to the chosen ones…
+The sacred Arrow of Light!!!
+
+But you let your guard down…
+I knew you would appear if I let this kid wander around!
+
+My only mistake was to slightly underestimate the power of this kid…
+
+No…
+It was not the kid's power I misjudged, it was the power of the Triforce of Courage!
+But, with the Triforce of Wisdom that Zelda has…
+When I obtain these two Triforces…
+Then, I will become the true ruler of the world!!
+
+The Ocarina of Time opened the door.
+The Hero of Time, with the Master Sword, descended here.
+
+It seems strange that packs of dogs roam our streets at night…
+Doesn't that seem weird to you?
+
+Hey, sonny, I'll tell you something helpful…
+I heard there is a mysterious fountain somewhere near the castle…
+
+If you want to return to your original time, return the Master Sword to the Pedestal of Time.
+By doing this, you will travel back in time seven years…
+
+The time will come when you will have to return here quickly…
+I will teach this to you for when that time comes…
+The song to return you to the Temple of Time…
+The Prelude of Light…
+
+I am Impa of the Sheikahs.
+I am responsible for protecting Princess Zelda.
+Everything is exactly as the Princess foretold.
+
+If the castle soldiers find you, there will be trouble.
+Let me lead you out of the castle.
+
+Hey you!
+Don't cause any trouble!
+
+You are a courageous boy…
+You are heading out on a big, new adventure, aren't you?
+My role in the Princess's dream was to teach a melody to the one from the forest.
+This is an ancient melody passed down by the Royal Family.
+I have played this song for Princess Zelda as a lullaby ever since she was a baby…
+There is mysterious power in these notes.
+Now listen carefully…
+
+All the tragedy that has befallen Hyrule was my doing…
+I was so young…I could not comprehend the consequences of trying to control the Sacred Realm.
+I dragged you into it, too.
+Now it is time for me to make up for my mistakes…
+You must lay the Master Sword to rest and close the Door of Time…
+
+However, by doing this, the road between times will be closed…
+
+@, give the Ocarina to me…
+As a Sage, I can return you to your original time with it.
+
+When peace returns to Hyrule…
+It will be time for us to say good-bye…
+
+Now, go home, @.
+Regain your lost time!
+Home…
+where you are supposed to be…
+the way you are supposed to be…
+
+Tsk Tsk.
+
+Well, maybe that's too much for a kid to pay.
+
+OK, I'll let you pass, quickly!
+
+KEEP IT A SECRET FROM EVERYONE.
+
+Man, I am SO tired!
+The night watch is so boring!
+I wish some ghosts would come out or something…
+Hey, I'm really interested in ghosts!
+Studying them is a hobby of mine, but you never know…the time might come when that kind of knowledge might be useful!
+
+My precious little puppy's fur coat is very special compared to the other mutts around here!
+
+My precious puppy can run faster than any of the other mutts around here!
+
+I can't find my puppy anywhere!
+I need you to look for it!
+Please!
+
+Arrrgh!
+That is not my dog!
+How could you mix up my puppy with a mutt like that?!
+
+Richard!
+This is my little Richard!
+Thank you!
+Thank you!
+I'll give this to you as a reward!
+
+At night it's dangerous to go out with all the wild dogs around…
+No, I wasn't warning you!
+I'm worried about my puppy!
+
+Hiyeee!
+Welcome to the Happy Mask Shop!
+We deal in masks that bring happiness to everyone!
+How would you like to be a happiness salesman?
+I'll lend you a mask.
+You sell the mask and bring the money back here.
+If you want to read the fine print, take a look at the sign right over there.
+After you've sold all the masks, you will become happy yourself!
+Have faith…
+
+I might have seen a cute little girl around here…
+Maybe she went to the castle?
+Who knows?
+
+Oh, great!
+You sold it!
+Please pay back 10 Rupees for the Keaton Mask now.
+
+Oh!
+You haven't sold the newest mask yet.
+Just have faith…
+Keep trying a little longer.
+
+Payment received!
+
+What?!
+You don't have my money?!
+How dare you!
+You'd better bring me my money…
+or else!
+
+Oh yeah!
+Very well done!
+All the masks are sold out.
+I knew I could trust you!
+
+As a reward…
+I will lend you this special mask.
+This is the Mask of Truth.
+It is a mysterious mask passed down by the Sheikah.
+With this mask you can see into other people's minds…
+It's useful, but scary!
+Why is it scary?
+You may find out as you grow older and discover the true meaning of life…
+Ho ho ho!
+
+From now on you can borrow any mask you want.
+Just have faith…
+
+Welcome!
+Which mask can I lend to you?
+
+The Triforce parts are resonating…
+They are combining into one again…
+
+The two Triforce parts that I could not capture on that day seven years ago…
+I didn't expect they would be hidden within you two!
+
+And now, finally, all the Triforce parts have gathered here!
+
+These toys are too much for you!
+
+I command you to return them to me!
+
+@! I can't help you!
+Because of the waves of darkness, I can't get close!
+I'm sorry, @!
+
+The Great Evil King Ganondorf…
+beaten by this kid?!
+
+@…!
+
+Ganondorf…pitiful man…
+Without a strong, righteous mind, he could not control the power of the gods…and…
+
+@, listen to me!
+This tower will collapse soon!
+With his last breath, Ganondorf is trying to crush us in the ruins of the tower!
+We need to hurry and escape!
+
+Please follow me!
+
+It's over…it's finally over…
+
+@…
+I'm sorry I couldn't help you in the battle before!
+
+What is that sound?
+
+There's no way he's going to hold me back again!
+This time, we fight together!
+
+@!
+The Master Sword is here!
+Hurry up!!
+
+I'm using my power to hold the Evil King!
+You use your sword and deliver the final blow!
+
+Six Sages…
+Now!!
+
+YOU…
+
+CURSE YOU…ZELDA!
+CURSE YOU…SAGES!!
+
+CURSE YOU…@!
+
+Someday…
+When this seal is broken…
+That is when I will exterminate your descendants!!
+
+As long as the Triforce of Power is in my hand…
+
+You… who are you?
+
+@, isn't that…?!
+
+It's that legendary blade…
+
+The Master Sword!!
+
+Find the other Sages and save Hyrule!
+
+That scary-looking man took off out of here really fast!
+
+Oh so scary…
+Oh so scary…
+
+Hey, what do you want?
+I don't have time to talk to you!
+
+No…
+I can't take that…
+That's not what I want to buy…
+
+Oh…you are quite an energetic young man.
+You're brave and handsome, too.
+Heh heh heh…your name is @, isn't it.
+Heh heh he…don't be surprised.
+I can read people's minds.
+If I looked as good as you, I could run a different kind of business…heh he heh…
+My shop is the only Ghost Shop in Hyrule.
+Because of the great Ganondorf, it is a fine time for a business like this…heh heh heh…
+Oh…I can only hope the world gets even worse!
+The ghosts, called Poes, are spirits of concentrated hatred that appear in the fields and graveyard.
+They hate the world!
+Young man, if you catch a Poe, I will pay a lot of money for it…
+Heh heh hee!
+
+Hey, young man.
+What's happening today?
+If you have a Poe, I will buy it.
+Your card now has points.
+Come back again!
+Heh heh heh!
+
+Wait a minute!
+WOW!
+You have earned 1,000 points!
+Young man, you are a genuine Ghost Hunter!
+Is that what you expected me to say?
+Heh heh heh!
+Because of you, I have extra inventory of Big Poes, so this will be the last time I can buy a ghost.
+You're thinking about what I promised would happen when you earned 1,000 points.
+Heh heh.
+Don't worry, I didn't forget.
+Just take this.
+
+Oh?
+What's that?
+Is that…
+
+a fairy?!
+Then, are you…
+Are you from the forest?
+
+Then… then… you wouldn't happen to have… the Spiritual Stone of the Forest, would you?!
+That green and shining stone…
+
+I had a dream…
+In the dream, dark storm clouds were billowing over the land of Hyrule…
+But suddenly, a ray of light shot out of the forest, parted the clouds and lit up the ground…
+The light turned into a figure holding a green and shining stone, followed by a fairy…
+
+I know this is a prophecy that someone would come from the forest…
+Yes, I thought you might be the one…
+
+Oh, I'm sorry!
+I got carried away with my story and didn't even properly introduce myself!
+
+I am Zelda, Princess of Hyrule.
+
+What?
+Have we met before?
+
+Awww…
+That's so cute!
+Could you tell me where you found it?
+
+Yeeeah!
+Help me!
+
+Uh…yeah?
+So what?
+
+I hate foxes!
+
+How irritating!
+
+Hey, you look good!
+
+YEEEAH!
+What's your problem?!
+
+Oooh… is that a Zora?
+Those cool eyes are really fascinating…
+
+Oh no!
+You're scary!
+Don't come any closer!
+
+Wow…how nostalgic!
+That reminds me of when I was a little kid.
+
+That's kind of funny…it makes me laugh!
+Hee hee!
+
+Uh-oh!
+I'm sorry, mom!
+Oh…hey, it's you!
+Don't scare me like that!
+
+What a big head you have!
+
+Oh, don't do that!
+I'm shy…
+
+Is there a mask competition going on?
+I'm going to vote for you!
+
+Oh!
+A rabbit!
+Speaking of rabbits, I saw a strange man chasing rabbits around…
+
+Oooh, what a pretty lady!
+But you're kind of short, aren't you?
+
+Well…I can't think of anything funny to say…sorry, kid!
+
+A mask…
+When I was a little kid, I also wore masks around…
+What?
+You say you can't imagine me doing that?
+
+Ohhhh…I see…
+It's an illusion…
+
+Hey, kid, don't grow up to be like me…
+
+AAAAAAAAAAAH!
+A GERUDO!!!!
+Wha-?
+A mask?
+Why do you have a mask like that?!
+
+Sorry, I'm busy right now.
+
+Oh wow!
+It's Keaton!
+Hi, Keaton!
+
+How spooky!
+There's a kid in Kakariko Village who was looking for a mask like that!
+
+Hmm…well…don't you have any other masks?
+
+What a strange mask!
+Hee hah haa!
+
+Hey kid!
+Can't you see we're busy?!
+Leave us alone!
+
+I'm sorry.
+I don't even want to look at any other woman!
+
+Hee hee.
+Don't pay any attention to that kid, my dear…
+Just pretend we're in our own, private little world…
+
+Oh, please!
+Go bother someone else!
+
+There's a rumor going around that there is a Potion Shop that can make the ultimate medicine!
+
+I heard a rumor that there is a monster that eats Hylian Shields somewhere out there in the world.
+Have you ever seen it?
+
+I came here to sell bombs…
+Please buy some!
+
+I…I am afraid…
+I have a feeling that man is going to destroy Hyrule.
+He has such terrifying power!
+But it's fortunate that you have come…
+
+What?
+If you want something, just make it clear!
+
+I'm busy!
+Get out of my way, you bum!
+
+Hey, you have some good, quality wood there, kid!
+
+Hrrrrm!
+Get out of my face!
+You good for nothin'…
+
+EEEEEEAAAAH!
+Whoops, I shouldn't scream like that or the boss will yell at me!
+
+Oh, sorry boss!
+I didn't mean to slack off!
+I'll get busy!
+Oh, that's not you, boss?
+
+Gerudos are beautiful and brave…
+They are just so fascinating!
+
+Someday, when I have more skill, I'll carve a mask like that one!
+
+Oh, that's the mask everyone is talking about!
+Looks kind of strange…
+
+Wa-ha-hah!
+How's business, Mx. @?
+Hah hah hah!
+
+I'm on duty.
+Understand?
+ON DUTY!
+
+Hmm, well, I don't really know what to say about that one…
+
+Oh wow!
+Cute!
+But Cuccos are much cuter!
+
+Eh, what?
+Are you sad?
+Happy?
+I really can't tell…
+
+I'm sorry, I'm not really interested in that.
+
+The little kid playing in the graveyard was saying something about his face…
+
+I really am a good man.
+Don't you believe me?
+
+WHAAAA--!
+I thought you were that old hag!
+Don't scare me like that!
+
+I remember my father talking about a swordsmith…but that doesn't really matter to me anyway.
+
+I'm not afraid of any forest monsters!
+Are you trying to make fun of me?
+
+What is that?
+I can't see it very well from here…
+
+Hi again!
+How are you today?
+
+Everything's fine today!
+
+Tired…I'm so tired…
+
+I don't care about any foxes!
+
+That's irritating!
+It bothers my eyes!
+
+That looks quite handsome!
+
+Waaaaaaah!
+What is wrong with you?
+Do you have a bad attitude?
+
+You idiot!
+When you talk to someone, you should make eye contact!
+
+You idiot!
+When you talk to someone, you shouldn't stare!
+
+You idiot!
+When you talk to someone, you should take off your mask!
+
+You idiot!
+I don't know why I'm calling you that, but…you are one!
+
+Where did you get that?
+What?
+It's a mask?
+
+Uh, leave me alone…
+Can't you see I'm in a groove right now?
+
+A mask is just like a musical instrument--it reflects the character of its owner.
+I like your originality, kid!
+
+What a big head!
+How'd you fit through that door?!
+
+I HATE foxes, sonny!
+
+Now if that isn't the most irritating face I've seen in all my days, I don't know what is!
+
+Hey, that's a fine face you got there, sonny!
+
+Have you got any complaints?
+Speak up, then!
+
+Please quit playing around and dispel our curse!
+
+If I wore something like that…
+I'd be a real Skulltula…
+AAAAAAAAAAH!
+
+Please understand if I don't laugh…
+It's hard to be happy in this condition…
+Being cursed and all…
+
+Hyaaaaah!
+That's scary!
+I know I'm scary, but…man!
+That's really scary!
+
+Huh?!
+Wha--!
+Oh, it's just a kid.
+Don't scare me like that!
+I may not look like it, but I'm a very sensitive guy!
+
+Well, will you lookit the noggin on this kid!
+It's HUGE!
+Mine is huge too, though…
+
+Do you know what kind of mask you're wearing…?
+And you're still wearing it?
+
+I'm on duty now…
+If you want me to dig, don't bother me.
+
+What is that?
+It's something that hops around in a field…
+I forgot what those things are called…
+
+Hey!
+It's a Keaton Mask!!
+I asked my daddy to get me one, too!
+
+That's not very different from Mr.
+Dampe, is it?
+
+That doesn't look anything like Mr.
+Dampe, huh?
+
+Hey, cool mask…but a little scary, don't you think?
+
+Hey!
+That looks familiar…
+I think I saw something like it in the Lost Woods, no?
+
+That makes me feel…happy…
+
+Oh…uh…sniff…
+That mask…
+It makes me feel…sad…
+
+Hah!
+That mask won't do you any good!
+You're just afraid of me, the great Mido…aren't you?!
+
+Waaaaah!
+What?
+Hey, I'm not scared of you!
+Just don't come any closer, understand?!
+
+Hey, that's a cool mask.
+I want it!
+JUST KIDDING!
+Hah!
+I don't want that stupid mask!
+
+Wah hah ha hah!
+That really suits you!
+
+Waaaah!
+I-I'm gonna tell Mido about this!
+
+Yeeeeah!
+I-I'm gonna tell Mido to beat you up!
+
+Whooooah!
+Are you some kind of forest ghost?
+
+That's so cool!
+Uh…don't tell Mido I said that!
+
+What?!
+You came back!
+I can tell who you are, even with that mask on!
+
+I wonder what Mido would say if he saw that?
+I really would like to see his reaction!
+
+I see…
+You're going to scare Mido with that mask, aren't you?!
+
+Hah hah hah!
+What a funny face!
+I bet Saria would think it's pretty funny, too!
+
+Tee hee hee!
+A mask made of wood?
+It looks like you're wearing a shield on your face!
+
+What a weird face!
+Speaking of weird faces, one of the forest kids was complaining about his face…
+
+What an enormous head you have!
+
+Tee hee!
+Where did you get that?
+Outside the forest?
+No way!
+I don't believe it!
+
+Hee hee!
+Kind of funny, but it's not really my style…
+
+Right on!
+Wearing this mask makes me feel really tough and scary!
+Hee hee!
+
+Hee hee!
+There sure are a lot of different people in the world!
+
+Hee hee!
+I don't need a new one…
+I like the one I have, thanks!
+
+Wow, that makes your head look huge!
+Hee hee!
+
+What a cute little mouse!
+What?
+Oh, it's not a mouse?
+
+What are those floppy things on your head?
+Ears?
+That mask makes you look like you have four ears!
+
+It must be exciting to sneak past the guards while wearing that mask!
+
+Hi, fairy boy!
+What?
+You think you're in disguise?
+But it's so obvious who you are!
+
+Wow!
+What big eyes you have!
+Gorons are so cute, aren't they!
+
+Oh, I know that character!
+It's Keaton!
+He's very hot in Hyrule Castle Town right now!
+
+Oh, brother!
+Boys will be boys!
+
+Wait…wait…
+I know who ya are…
+Yer…
+Kin-ton!
+Ain't that right?!
+
+That's a scary one, ain't it?
+Almost as scary as…Ingo!
+
+Hey, that reminds me of my wife…
+On second thought, it doesn't…
+It doesn't look like her at all!
+
+YAAAWWN…
+I'm kinda tired right now…
+Show it to me later…
+
+Scram, kid!
+Can't you see I'm busy?!
+
+Humph!
+It's fine to play like that when you're a kid, but just wait until you grow up!
+Work, work, work!
+
+YEOW!
+Humph.
+It's just a mask…
+Scram, kid!
+Get out of here!
+
+Heh heh heh…
+Well, that cheered me up a little, kid.
+Thanks!
+
+Hmmm…
+Let's see…
+Yes, I'm quite sure of it…
+That was manufactured from a plank from a coffin.
+Yes, it was!
+
+Ahhh…yes.
+Let's see…
+Very fine craftsmanship.
+But I don't think it would make a good ingredient for my medicine.
+
+Very interesting!
+A Goron!
+Speaking of Gorons, I wonder how my old friend, Biggoron of Death Mountain, is doing?
+
+Very unusual construction…
+I don't think it's water soluble, so it wouldn't make a good ingredient for my medicines…
+
+Chomp chomp chomp…
+OK, OK, a mask.
+Do you want to buy some beans?
+
+Chomp chomp chomp…
+Nope, I don't want to buy it.
+
+Chomp chomp chomp…
+Nope, it's not my style.
+
+Chomp chomp chomp…
+Well…no, I don't think I want it.
+
+What do you want?
+
+You don't look like you can swim very well…
+
+Red hair…tan skin…
+I've seen people like that before…
+
+Yeah, right.
+You look a little small for a Zora…
+
+Ho ho ho!
+You Hylians…you are such silly creatures!
+
+That face…it gives me the chills…
+
+Talk about a nostalgia trip!
+That reminds me of my childhood friend, Biggoron!
+
+I don't think that's funny at all.
+Are you mocking me?
+
+You're a funny guy!
+
+Your head--it's gigantic!
+
+Don't do that…
+It's embarrassing me!
+
+All right!
+You actually decided to become a Zora!
+Are you actually ready to marry me now?
+
+WHOA!
+My heart…started to beat so fast!
+
+That's an unpleasant mask…
+Good-bye.
+
+Hrrrrm…
+I don't know what to say.
+
+You shouldn't be so picky about what you eat!
+Do you eat all your green rocks?
+If you don't, you won't grow up big and strong!
+
+Leave me alone!
+
+Are you trying to make me laugh?
+Well, that's not that funny…
+
+You're making me mad!
+
+I hate Gerudos!!
+
+Quit pestering me!
+Go away!
+
+Wah hah hah!
+Do you think you're in disguise?
+How funny!
+
+Out of my way!
+Get out of here!
+You're asking for it, aren't you?
+
+Hey, kid, you've got guts coming around here wearing that!
+Still, you can't fool us that easily!
+
+What is that?
+What does it have to do with us?
+
+Ha ha hah!
+You've got guts to spare, don't you kid?
+I like you!
+
+C'mon!
+It's time to get serious!
+
+That's odd…it kind of looks like me…
+No…not really.
+Not at all, if you look at it closely.
+
+Hmm.
+No, no, no!
+The ears aren't right at all!
+They should be, you know, longer!
+
+Aren't you kind of scared, walking around in the middle of the night looking like that?
+
+Ha ha hah!
+You really like those things, don't you?!
+
+I think I've seen a stone that looks like that somewhere…
+Now where was that?
+Hmmmm…
+
+Hurry up, @!
+Any second now, the tower is going to collapse!!
+
+Watch out for falling rubble!
+
+@!
+Help me!
+
+@!
+The exit is just over there!
+
+Thank you, @.
+Now, let's hurry!
+
+Too bad!
+Practice hard and come back!
+
+Almost!!
+Well…all right!
+I'll let you try one more time for free…
+This time, you gotta do it!
+
+Wonderful!!!
+Bravo!!!
+Perfect!!!
+Here's a fantastic present!
+
+Oh, no!
+Time's up!
+The thing you were going to deliver has spoiled!
+Let's try again!
+
+BOINNG!
+BOINNG!
+The current time is: 13:37!
+
+You heard about us from the guard at Death Mountain gate?
+Well, I have to give you a good deal then!

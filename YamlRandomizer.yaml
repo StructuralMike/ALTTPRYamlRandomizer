@@ -9,19 +9,23 @@ textomizer:
     - hints
 
 # If enabled, will ensure a certain amount of players will get some of the troll settings defined below
+# Agahnim and Pedestal only guarantees progression in 7 crystal ganon, non-entrance shuffle.  
 trollomizer:
   enabled: True
-  agahnim: 2 # How many players get progression in Lumberjack Tree?
-  pedestal: 2 # How many players get progression on the master sword pedestal?
-  menuslow: 2 # How many players get a slow menu?
-  fastheart: 2 # How many players get fast low health warning sounds? 
-  cutsceneslow: 2 # How many players have extremely slow wall cutscenes? (only works for special branches)
-  startinventory: # How many non-progression items should be in to the start inventory?
+  agahnim: 2 # Progression in Lumberjack Tree
+  pedestal: 2 # Progression on the master sword pedestal
+
+  menuslow: 2 # Slow menu speed
+  fastheart: 2 # Fast heart health beeping
+  cutsceneslow: 2 # Extremely slow wall cutscenes (only works for special branches)
+
+  startinventory: # Interval for random amount of non-progression items to put in the start inventory
     min: 2  
     max: 5
 
-# If enabled, will pre-place trash items in all regions defined below.
+# If enabled, will pre-place trash items (consumables and heart pieces) in all regions defined below.
 # If "Dungeon" is included below, the locationizer will resolve keysanity weights and only if full keysanity is set the dungeon regions will become barren.
+# Locations already named in plando_items will NOT be included 
 locationizer:
   enabled: True
   barren_regions: # Overworld, FetchQuest, Dungeon, LumberJackTree, MasterSwordPedestal

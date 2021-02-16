@@ -12,13 +12,13 @@ textomizer:
 trollomizer:
   enabled: True # True/False
   agahnim: 1 # Number of players with progression in Lumberjack Tree
-  pedestal: 1 # Number of players with progression on the master sword pedestal
+  pedestal: 0 # Number of players with progression on the master sword pedestal
 
   menuslow: 0 # Number of players with Slow menu speed
   fastheart: 0 # Number of players with Fast heart health beeping
   cutsceneslow: 0 # Number of players with Extremely slow wall cutscenes (only works for special branches)
 
-  startinventory: # Intervall for random amount of non-progression items to put in the start inventory
+  startinventory: # Intervall for random amount of semi-usable items to put in the start inventory
     min: 2  
     max: 5
 
@@ -26,7 +26,7 @@ trollomizer:
 # If "Dungeon" is included below, the locationizer will resolve keysanity weights and only if full keysanity is set the dungeon regions will become barren.
 # Locations already named in plando_items will NOT be included 
 locationizer:
-  enabled: True # True/False
+  enabled: False # True/False
   barren_regions: # Overworld, FetchQuest, Dungeon, LumberJackTree, MasterSwordPedestal
     - Overworld
     - FetchQuest

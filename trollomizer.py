@@ -106,6 +106,14 @@ def trollYamls(players,amount):
     else:
         return ['None']
 
+def genTrollName():
+    names = [
+        'Gnent','Nad','Ayle','Iste','Lam','Rstynn','Tann','Oelee','Ker','Amsey','Ssag',
+        'Llang','Mmark','Lind','Nes','Elly','Egui','Wall','Uince','Ike','Ldoch','Atha',
+        'Uba','Kigm','Nell','Wiss','Nanc','Lis','Nin','Arla','Hoth','Bel','Ddiet','Rton'
+    ]
+    return ' '.join(random.sample(names,2))
+
 def trollomizer(input_yamls,parameters):
     players = []
     for player in input_yamls:
@@ -235,4 +243,7 @@ def trollomizer(input_yamls,parameters):
                 else:
                     settings['startinventory'][item] += 1
         
+        if settings['name'] == 'random':
+            settings['name'] = genTrollName()
+
         input_yamls[player] = settings

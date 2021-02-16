@@ -1,4 +1,3 @@
-import random
 from ruamel import yaml
 import os
 from textomizer import textomizer
@@ -12,8 +11,8 @@ for file in os.listdir("./Players/"):
         with open(input_yaml, "r", encoding='utf-8') as f:
             input_yamls[input_yaml] = yaml.load(f, Loader=yaml.RoundTripLoader)
 
-YamlRandomizer = 'YamlRandomizer.yaml'
-with open(YamlRandomizer, "r", encoding='utf-8') as f:
+yamlRandomizerSettings = 'YamlRandomizer.yaml'
+with open(yamlRandomizerSettings, "r", encoding='utf-8') as f:
     yamlSettings = yaml.load(f, Loader=yaml.RoundTripLoader)
 
 if yamlSettings['textomizer']['enabled']:

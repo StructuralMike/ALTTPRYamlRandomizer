@@ -1,6 +1,4 @@
 import random
-from ruamel import yaml
-import os
 
 special_commands = {
     "{SPEED0}": [0x7A, 0x00],

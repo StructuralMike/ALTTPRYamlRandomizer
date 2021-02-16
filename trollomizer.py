@@ -1,6 +1,4 @@
 import random
-from ruamel import yaml
-import os
 
 def genDungeons():
     DUNGEONS = [
@@ -109,7 +107,6 @@ def trollYamls(players,amount):
         return ['None']
 
 def trollomizer(input_yamls,parameters):
-
     players = []
     for player in input_yamls:
         players.append(player)

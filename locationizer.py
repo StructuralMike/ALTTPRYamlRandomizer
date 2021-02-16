@@ -1,21 +1,19 @@
 import random
-import base64
-import math
 
 def generateItemPool(amount):
     tc = 112
     items = {
-        'Arrows (10)': math.ceil(23/tc*amount),
-        'Bombs (3)': math.ceil(17/tc*amount),
-        'Bee': math.ceil(1/tc*amount),
-        'Bee Trap': math.ceil(1/tc*amount),
-        'Rupee (1)': math.ceil(1/tc*amount),
-        'Rupees (5)': math.ceil(4/tc*amount),
-        'Rupees (20)': math.ceil(28/tc*amount),
-        'Rupees (50)': math.ceil(7/tc*amount),
-        'Rupees (100)': math.ceil(3/tc*amount),
-        'Rupees (300)': math.ceil(3/tc*amount),
-        'Piece of Heart': math.ceil(24/tc*amount),
+        'Arrows (10)': int(23/tc*amount)+1,
+        'Bombs (3)': int(17/tc*amount)+1,
+        'Bee': int(1/tc*amount)+1,
+        'Bee Trap': int(1/tc*amount)+1,
+        'Rupee (1)': int(1/tc*amount)+1,
+        'Rupees (5)': int(4/tc*amount)+1,
+        'Rupees (20)': int(28/tc*amount)+1,
+        'Rupees (50)': int(7/tc*amount)+1,
+        'Rupees (100)': int(3/tc*amount)+1,
+        'Rupees (300)': int(3/tc*amount)+1,
+        'Piece of Heart': int(24/tc*amount)+1,
     }
     return items
 

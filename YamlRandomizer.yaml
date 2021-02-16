@@ -1,7 +1,7 @@
 # If enabled, will produce random dialogue based on modified, curated, and truncated text from ALTTP and OoT
 # Categories defines which dialogue prompts should be enabled and randomized.
 textomizer:
-  enabled: True
+  enabled: True # True/False
   categories: # people, signs, item_pickup, hints
     - people
     - signs
@@ -10,13 +10,13 @@ textomizer:
 # If enabled, will ensure a certain amount of players will get some of the troll settings defined below
 # Agahnim and Pedestal only guarantees progression in 7 crystal ganon, non-entrance shuffle.  
 trollomizer:
-  enabled: True
-  agahnim: 1 # Progression in Lumberjack Tree
-  pedestal: 1 # Progression on the master sword pedestal
+  enabled: True # True/False
+  agahnim: 1 # Number of players with progression in Lumberjack Tree
+  pedestal: 1 # Number of players with progression on the master sword pedestal
 
-  menuslow: 0 # Slow menu speed
-  fastheart: 0 # Fast heart health beeping
-  cutsceneslow: 0 # Extremely slow wall cutscenes (only works for special branches)
+  menuslow: 0 # Number of players with Slow menu speed
+  fastheart: 0 # Number of players with Fast heart health beeping
+  cutsceneslow: 0 # Number of players with Extremely slow wall cutscenes (only works for special branches)
 
   startinventory: # Intervall for random amount of non-progression items to put in the start inventory
     min: 2  
@@ -26,7 +26,7 @@ trollomizer:
 # If "Dungeon" is included below, the locationizer will resolve keysanity weights and only if full keysanity is set the dungeon regions will become barren.
 # Locations already named in plando_items will NOT be included 
 locationizer:
-  enabled: True
+  enabled: True # True/False
   barren_regions: # Overworld, FetchQuest, Dungeon, LumberJackTree, MasterSwordPedestal
     - Overworld
     - FetchQuest

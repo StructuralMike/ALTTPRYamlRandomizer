@@ -295,7 +295,7 @@ Pull the switch over there.
 
 Who?
 Oh, it's you, @!
-What can I do for you, young man?
+What can I do for you, young one?
 The elder?
 Oh, no one has seen him since the wizard began collecting victims………
 
@@ -336,7 +336,7 @@ I can only rely on you.
 I am, indeed, Sahasrahla, the village elder and a descendent of the seven wise men.
 …… Oh really?
 
-@, I am surprised a young man like you is searching for the sword of evil's bane.
+@, I am surprised a young one like you is searching for the sword of evil's bane.
 Not just anyone can use that weapon.
 Legends say only the Hero who has won the three Pendants can wield the sword.
 
@@ -388,12 +388,12 @@ And carry this with you.
 This is a treasure passed down by the families of the wise men.
 I want you to have it.
 
-You are correct, young man!
+You are correct, young one!
 I am Sahasrahla, the village elder and a descendent of the seven wise men.
 ………
 What?
 
-@, I'm surprised a young man like you is looking for the sword of evil's bane.
+@, I'm surprised a young one like you is looking for the sword of evil's bane.
 Not just anyone can use that sword.
 According to the tales handed down by the Hylia, only the Hero who has destroyed three great evils and won the three Pendants can wield the sword…
 ………
@@ -457,7 +457,7 @@ This way \/
 Double, double toil and trouble, fire burn and cauldron bubble…
 Making mushroom brew, I am…
 
-Heh heh… Thank you, young man…
+Heh heh… Thank you, young one…
 Come back to the shop later for something good…
 Heh heh…
 
@@ -746,7 +746,7 @@ Uhhh… Watch your step.
 There are holes in the ground.
 Could you turn right here?
 
-Young man, are you also going to the mountain to look for the Golden Power?
+young one, are you also going to the mountain to look for the Golden Power?
 Just ahead is a mountain full of monsters.
 
 Many people have vanished in this mountain while looking for the Golden Power.
@@ -847,7 +847,7 @@ Lake Of Ill Omen
 After Agahnim took over, everyone began to act strangely.
 I suppose it's only a matter of time before I'm affected, too.
 
-Hey hey! You're not allowed in the castle, son!
+Hey hey! You're not allowed in the castle, kid!
 Go home and get some sleep!
 
 @, it is I, Sahasrahla.

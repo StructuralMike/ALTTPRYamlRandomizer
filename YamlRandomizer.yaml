@@ -1,3 +1,5 @@
+# If enabled, will produce random dialogue based on modified, curated, and truncated text from ALTTP and OoT
+# Categories defines which dialogue prompts should be enabled and randomized.
 textomizer:
   enabled: True
   categories: # people, signs, item_pickup, hints
@@ -6,23 +8,25 @@ textomizer:
     - item_pickup
     - hints
 
+# If enabled, will ensure a certain amount of players will get some of the troll settings defined below
 trollomizer:
   enabled: True
-  pedestal:
-    min: 0
-    max: 2
-  agahnim:
-    min: 0
-    max: 2
-  menuslow:
-    min: 0
-    max: 2
-  fastheart:
-    min: 0
-    max: 2
-  cutsceneslow:
-    min: 0
-    max: 2
-  startinventory:
-    min: 2
+  agahnim: 2 # How many players get progression in Lumberjack Tree?
+  pedestal: 2 # How many players get progression on the master sword pedestal?
+  menuslow: 2 # How many players get a slow menu?
+  fastheart: 2 # How many players get fast low health warning sounds? 
+  cutsceneslow: 2 # How many players have extremely slow wall cutscenes? (only works for special branches)
+  startinventory: # How many non-progression items should be in to the start inventory?
+    min: 2  
     max: 5
+
+# If enabled, will pre-place trash items in all regions defined below.
+# If "Dungeon" is included below, the locationizer will resolve keysanity weights and only if full keysanity is set the dungeon regions will become barren.
+locationizer:
+  enabled: True
+  barren_regions: # Overworld, FetchQuest, Dungeon, LumberJackTree, MasterSwordPedestal
+    - Overworld
+    - FetchQuest
+    - LumberJackTree
+    - MasterSwordPedestal
+    - Dungeon    

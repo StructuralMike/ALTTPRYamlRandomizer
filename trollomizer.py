@@ -350,8 +350,8 @@ def genGame(crystals):
 
     return xtalDungeons, pendantDungeons, required, pendantRequired, medallions
 
-def trollYamls(players,low=0,high=3):
-    trolls = random.randint(low,min([len(players),high]))
+def trollYamls(players,amount):
+    trolls = min([len(players),amount])
     if trolls > 0:
         return random.sample(players,trolls)
     else:
@@ -363,11 +363,11 @@ def trollomizer(input_yamls,parameters):
     for player in input_yamls:
         players.append(player)
 
-    cutslow = trollYamls(players,low=parameters['cutsceneslow']['min'],high=parameters['cutsceneslow']['max'])
-    menuslow = trollYamls(players,low=parameters['menuslow']['min'],high=parameters['menuslow']['max'])
-    fastheart = trollYamls(players,low=parameters['fastheart']['min'],high=parameters['fastheart']['max'])
-    pedestal = trollYamls(players,low=parameters['pedestal']['min'],high=parameters['pedestal']['max'])
-    agahnim = trollYamls(players,low=parameters['agahnim']['min'],high=parameters['agahnim']['max'])
+    cutslow = trollYamls(players,parameters['cutsceneslow'])
+    menuslow = trollYamls(players,parameters['menuslow'])
+    fastheart = trollYamls(players,parameters['fastheart'])
+    pedestal = trollYamls(players,parameters['pedestal'])
+    agahnim = trollYamls(players,parameters['agahnim'])
 
     for player,settings in input_yamls.items():
         if 'local_items' not in settings:

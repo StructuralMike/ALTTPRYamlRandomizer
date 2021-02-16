@@ -3,6 +3,7 @@ from ruamel import yaml
 import os
 from textomizer import textomizer
 from trollomizer import trollomizer
+from locationizer import locationizer
 
 input_yamls = {}
 for file in os.listdir("./Players/"):
@@ -20,6 +21,9 @@ if yamlSettings['textomizer']['enabled']:
 
 if yamlSettings['trollomizer']['enabled']:
     trollomizer(input_yamls,yamlSettings['trollomizer'])
+
+if yamlSettings['locationizer']['enabled']:
+    locationizer(input_yamls,yamlSettings['locationizer'])
 
 for input_yaml,settings in input_yamls.items():
     output_file = os.path.join('Output', 'multi_' + os.path.basename(input_yaml))

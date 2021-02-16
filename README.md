@@ -6,6 +6,7 @@ This is meant to be used to modify your existing YAML settings for the [Archipel
 ## INSTRUCTIONS
 
 Simply run **ALTTPRYamlRandomizer.py**
+
 Every yaml in the /Player directory will be read, modified, and written to the /Output directory.
 Modifications are done as per the settings defined in the provided **YamlRandomizer.yaml** file.
 

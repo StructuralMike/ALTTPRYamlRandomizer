@@ -6,20 +6,19 @@ textomizer:
     - people
     - signs
     - item_pickup
-    - hints
 
 # If enabled, will ensure a certain amount of players will get some of the troll settings defined below
 # Agahnim and Pedestal only guarantees progression in 7 crystal ganon, non-entrance shuffle.  
 trollomizer:
   enabled: True
-  agahnim: 2 # Progression in Lumberjack Tree
-  pedestal: 2 # Progression on the master sword pedestal
+  agahnim: 1 # Progression in Lumberjack Tree
+  pedestal: 1 # Progression on the master sword pedestal
 
-  menuslow: 2 # Slow menu speed
-  fastheart: 2 # Fast heart health beeping
-  cutsceneslow: 2 # Extremely slow wall cutscenes (only works for special branches)
+  menuslow: 0 # Slow menu speed
+  fastheart: 0 # Fast heart health beeping
+  cutsceneslow: 0 # Extremely slow wall cutscenes (only works for special branches)
 
-  startinventory: # Interval for random amount of non-progression items to put in the start inventory
+  startinventory: # Intervall for random amount of non-progression items to put in the start inventory
     min: 2  
     max: 5
 
@@ -31,6 +30,3 @@ locationizer:
   barren_regions: # Overworld, FetchQuest, Dungeon, LumberJackTree, MasterSwordPedestal
     - Overworld
     - FetchQuest
-    - LumberJackTree
-    - MasterSwordPedestal
-    - Dungeon    

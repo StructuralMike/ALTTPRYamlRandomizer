@@ -11,6 +11,6 @@ Every yaml in the /Player directory will be read, modified, and written to the /
 Modifications are done as per the settings defined in the provided **YamlRandomizer.yaml** file.
 
 This tool relies a lot on the plando feature of Archipelago.
-To enable this, you need to modify your Archipelago **host.yaml** file accordingly:
+To enable this, you need to modify your Archipelago **host.yaml** before you generate seeds:
 
     plando_options: "items,texts"

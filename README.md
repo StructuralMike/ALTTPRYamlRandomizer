@@ -5,10 +5,14 @@ This is meant to be used to modify your existing YAML settings for the [Archipel
 
 ## INSTRUCTIONS
 
-Simply run **ALTTPRYamlRandomizer.py**
-
 Every yaml in the /Player directory will be read, modified, and written to the /Output directory.
 Modifications are done as per the settings defined in the provided **YamlRandomizer.yaml** file.
+
+Simply run **ALTTPRYamlRandomizer.py**
+
+You may have to install ruamel:
+
+    pip install ruamel.yaml
 
 This tool relies a lot on the plando feature of Archipelago.
 To enable this, you need to modify your Archipelago **host.yaml** before you generate seeds:

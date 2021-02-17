@@ -1,66 +1,22 @@
 import random
+import json
 
-special_commands = {
-    "{SPEED0}": [0x7A, 0x00],
-    "{SPEED1}": [0x7A, 0x01],
-    "{SPEED2}": [0x7A, 0x02],
-    "{SPEED6}": [0x7A, 0x06],
-    "{PAUSE1}": [0x78, 0x01],
-    "{PAUSE3}": [0x78, 0x03],
-    "{PAUSE5}": [0x78, 0x05],
-    "{PAUSE7}": [0x78, 0x07],
-    "{PAUSE9}": [0x78, 0x09],
-    "{INPUT}": [0x7E],
-    "{CHOICE}": [0x68],
-    "{ITEMSELECT}": [0x69],
-    "{CHOICE2}": [0x71],
-    "{CHOICE3}": [0x72],
-    "{HARP}": [0x79, 0x2D],
-    "{MENU}": [0x6D, 0x00],
-    "{BOTTOM}": [0x6D, 0x00],
-    "{NOBORDER}": [0x6B, 0x02],
-    "{CHANGEPIC}": [0x67, 0x67],
-    "{CHANGEMUSIC}": [0x67],
-    "{PAGEBREAK}" : [0x7D],
-    "{INTRO}": [0x6E, 0x00, 0x77, 0x07, 0x7A, 0x03, 0x6B, 0x02, 0x67],
-    "{NOTEXT}": [0x6E, 0x00, 0x6B, 0x04],
-    "{IBOX}": [0x6B, 0x02, 0x77, 0x07, 0x7A, 0x03],
-    "{C:GREEN}": [0x77, 0x07],
-    "{C:YELLOW}": [0x77, 0x02],
-}
+def importText(origins):
+    text_data_file = './text_data.json'
+    with open(text_data_file, "r", encoding='utf-8') as f:
+        text_data = json.load(f)
 
-def importText(filenames=['./TEXTS/lines_Z3.txt','./TEXTS/lines_OoT.txt']):
-    
-    textPool = {'questions': set(), 'choice_1s': set(), 'choice_2s': set(), 'ats': set(), 'other': set()}
+    textPool = {
+        'questions': set(),
+        'choice_1s': set(),
+        'choice_2s': set(),
+        'ats': set(),
+        'other': set()
+        }
 
-    for inputFile in filenames:
-        with open(inputFile, "r", encoding="utf-8-sig") as f:
-            lines = f.readlines()
-
-        # DialogueID, SentenceOrder, Sentence, Question/Choice [null,Q,C1,C2]
-
-        for line in lines:
-            if line == "\n":
-                continue
-            sentence = line.strip('\n')
-            if hasTooLongWord(sentence):
-                continue
-            if sentence.startswith('[C1]'):
-                sentence = '  ≥' + sentence.replace('[C1]','')
-                if len(sentence) <= 14:
-                    textPool['choice_1s'].add(sentence)
-            elif sentence.startswith('[C2]'):
-                sentence = '   ' + sentence.replace('[C2]','')
-                if len(sentence) <= 14:
-                    textPool['choice_2s'].add(sentence)
-            elif sentence.endswith('?') and len(sentence) > 3 and fitsOnSign(sentence,signSize=2):
-                textPool['questions'].add(sentence)
-            elif '@' in sentence:
-                if fitsOnSign(sentence):
-                    textPool['ats'].add(sentence)
-            else:
-                if fitsOnSign(sentence):
-                    textPool['other'].add(sentence)
+    for origin in origins:
+        for category in textPool:
+            textPool[category].update(text_data[origin][category])
 
     return textPool
 
@@ -922,13 +878,6 @@ def defineTextTargets():
     }
     return textTargets
 
-def hasTooLongWord(sentence,max=13):
-    words = sentence.split(' ')
-    for word in words:
-        if len(word) > max:
-            return True
-    return False
-
 def fitsOnSign(text,signSize=3):
     linecount = 0
     lines = text.split('\n')
@@ -1013,10 +962,16 @@ def randomText(shuffleGroups,textPool,textTargets):
     return newText
 
 def textomizer(input_yamls,parameters):
-    textPool = importText()
+    allowed_origins = ['Z3','OoT']
+    if parameters['origins']:
+        origins = [origin for origin in parameters['origins'] if origin in allowed_origins]
+    else:
+        origins = allowed_origins
+    textPool = importText(origins)
     textTargets = defineTextTargets()
 
     pairs = {
+        'choice-dialogue': ['CHOICES'], 
         'people': ['OTHERS', 'NOBORDER', 'BOTTOMS'],
         'signs': ['SIGNS'],
         'item_pickup': ['ITEMGET'],

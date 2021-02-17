@@ -2,7 +2,11 @@
 # Categories defines which dialogue prompts should be enabled and randomized.
 textomizer:
   enabled: True # True/False
-  categories: # people, signs, item_pickup, hints
+  origins: # Z3, OoT
+    - Z3
+    - OoT
+  categories: # choice-dialogue, people, signs, item_pickup, hints
+    - choice-dialogue
     - people
     - signs
     - item_pickup

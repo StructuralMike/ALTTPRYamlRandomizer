@@ -30,6 +30,10 @@ It features 3 main things.
 
 * The Locationizer
     * Here you can specify regions to pre-fill with trash items.
-    * Are you playing door-rando and dont wanna waste time in the overworld?
-    * Specify "Overworld and FetchQuest" and you'll be guaranteed fast low% door-rando fun.
-    * Do you hate dungeons? Then enable full keysanity and specify "dungeons".
+    * Are you playing door-rando and dont wanna waste time in the overworld? Make Overworld and FetchQuest barren and you'll be guaranteed fast low% door-rando action.
+    * Do you hate dungeons? Then enable full keysanity and specify "dungeons". Now every dungeon is a go-mode dungeon.
+
+
+## WARNING
+
+This may break your yaml. If you have issues or run into errors, contact me (StructuralMike) in the Archipelago discord and I'll sort you out.

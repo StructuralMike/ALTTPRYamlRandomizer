@@ -22,7 +22,7 @@ I've made a YAML tool that I'd like to share with you. It started out as a way f
 It features 3 main things.
 
 * The Textomizer
-    * Using the newly added text-plandomizer, I have created an algorithm that generates unique zelda-based dialogue to be plandod onto any defined categories (signs, people, choices, item-receives).
+    * Generate unique zelda-based dialogue to be plandod onto any defined categories (signs, people, choices, item-receives).
 
 * The Trollomizer
     * Specify the exact amount of players to get random progression item on Lumberjack or Pedestal, slow menu speed, or fast heart rate sound effects.

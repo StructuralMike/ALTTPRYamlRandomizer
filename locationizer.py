@@ -267,13 +267,16 @@ def locationizer(input_yamls,parameters):
         if 'Dungeon' in barren_regions:
             sanities = ['map_shuffle','compass_shuffle','smallkey_shuffle', 'bigkey_shuffle']
             fullsanity = True
-            for sanity in sanities:
-                if sanity in settings:
-                    settings[sanity] = rollSetting(settings[sanity])
-                    if settings[sanity] == 'off':
+            try:
+                for sanity in sanities:
+                    if sanity in settings:
+                        settings[sanity] = rollSetting(settings[sanity])
+                        if settings[sanity] == 'off':
+                            fullsanity = False
+                    else:
                         fullsanity = False
-                else:
-                    fullsanity = False
+            except:
+                fullsanity = False
             
             if not fullsanity:
                 barren_regions.remove('Dungeon')
